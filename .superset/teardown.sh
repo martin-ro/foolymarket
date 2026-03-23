@@ -34,6 +34,30 @@ env_get_from_file() {
   printf '%s' "$value"
 }
 
+drop_database_if_exists() {
+  local database_name="$1"
+
+  if [ -z "$database_name" ]; then
+    return 0
+  fi
+
+  local database_name_literal
+  local database_name_identifier
+
+  database_name_literal="$(printf "%s" "$database_name" | sed "s/'/''/g")"
+  database_name_identifier="$(printf '%s' "$database_name" | sed 's/"/""/g')"
+
+  echo "Dropping workspace database: $database_name"
+
+  PGPASSWORD="$DB_PASSWORD" "$PSQL_BIN" -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USERNAME" -d postgres -v ON_ERROR_STOP=1 <<SQL
+SELECT pg_terminate_backend(pid)
+FROM pg_stat_activity
+WHERE datname = '${database_name_literal}'
+  AND pid <> pg_backend_pid();
+DROP DATABASE IF EXISTS "${database_name_identifier}";
+SQL
+}
+
 slugify_domain() {
   local input="$1"
   local output
@@ -100,6 +124,7 @@ DB_PORT="$(env_get_from_file "$ENV_FILE" DB_PORT)"
 DB_PORT="${DB_PORT:-5432}"
 DB_USERNAME="$(env_get_from_file "$ENV_FILE" DB_USERNAME)"
 DB_PASSWORD="$(env_get_from_file "$ENV_FILE" DB_PASSWORD)"
+DB_DATABASE_FROM_ENV="$(env_get_from_file "$ENV_FILE" DB_DATABASE)"
 
 if [ -z "$DB_USERNAME" ]; then
   echo "DB_USERNAME must be set in $ENV_FILE"
@@ -108,12 +133,14 @@ fi
 
 herd unlink "$DOMAIN_NAME" || true
 
-PGPASSWORD="$DB_PASSWORD" "$PSQL_BIN" -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USERNAME" -d postgres -v ON_ERROR_STOP=1 <<SQL
-SELECT pg_terminate_backend(pid)
-FROM pg_stat_activity
-WHERE datname = '${TARGET_DB_NAME}'
-  AND pid <> pg_backend_pid();
-DROP DATABASE IF EXISTS "${TARGET_DB_NAME}";
-SQL
+if [[ "$DB_DATABASE_FROM_ENV" == foolymarket_ws_* ]]; then
+  drop_database_if_exists "$DB_DATABASE_FROM_ENV"
+else
+  echo "Skipping DB_DATABASE from $ENV_FILE (not workspace DB): ${DB_DATABASE_FROM_ENV:-<empty>}"
+fi
+
+if [ "$TARGET_DB_NAME" != "$DB_DATABASE_FROM_ENV" ]; then
+  drop_database_if_exists "$TARGET_DB_NAME"
+fi
 
 echo "Superset workspace teardown complete."

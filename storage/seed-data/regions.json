@@ -1,0 +1,632 @@
+[
+  {
+    "id": 31,
+    "country_id": 32,
+    "name": "Galicia",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 35,
+    "country_id": 11,
+    "name": "Bayern",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 36,
+    "country_id": 11,
+    "name": "Nordrhein-Westfalen",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 39,
+    "country_id": 11,
+    "name": "Baden-Wurttemberg",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 47,
+    "country_id": 462,
+    "name": "England",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 63,
+    "country_id": 32,
+    "name": "La Rioja",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 67,
+    "country_id": 17,
+    "name": "Hauts-de-France",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 69,
+    "country_id": 251,
+    "name": "Veneto",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 70,
+    "country_id": 32,
+    "name": "Murcia, Region de",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 76,
+    "country_id": 17,
+    "name": "Grand-Est",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 79,
+    "country_id": 251,
+    "name": "Lombardia",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 80,
+    "country_id": 251,
+    "name": "Toscana",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 81,
+    "country_id": 17,
+    "name": "Pays-de-la-Loire",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 82,
+    "country_id": 251,
+    "name": "Sardegna",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 83,
+    "country_id": 11,
+    "name": "Niedersachsen",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 84,
+    "country_id": 11,
+    "name": "Sachsen-Anhalt",
+    "created_at": "2026-03-23 09:15:15",
+    "updated_at": "2026-03-23 09:15:15"
+  },
+  {
+    "id": 90,
+    "country_id": 462,
+    "name": "Scotland",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 103,
+    "country_id": 11,
+    "name": "Sachsen",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 105,
+    "country_id": 11,
+    "name": "Rheinland-Pfalz",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 108,
+    "country_id": 462,
+    "name": "Wales",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 117,
+    "country_id": 17,
+    "name": "Bourgogne-Franche-Comte",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 125,
+    "country_id": 17,
+    "name": "Centre-Val de Loire",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 133,
+    "country_id": 17,
+    "name": "Ile-de-France",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 134,
+    "country_id": 17,
+    "name": "Normandie",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 138,
+    "country_id": 17,
+    "name": "Auvergne-Rhone-Alpes",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 141,
+    "country_id": 17,
+    "name": "Nouvelle-Aquitaine",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 153,
+    "country_id": 32,
+    "name": "Catalunya",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 155,
+    "country_id": 251,
+    "name": "Basilicata",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 159,
+    "country_id": 11,
+    "name": "Hessen",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 192,
+    "country_id": 251,
+    "name": "Sicilia",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 196,
+    "country_id": 251,
+    "name": "Puglia",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 199,
+    "country_id": 251,
+    "name": "Campania",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 200,
+    "country_id": 32,
+    "name": "Extremadura",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 212,
+    "country_id": 11,
+    "name": "Schleswig-Holstein",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 213,
+    "country_id": 17,
+    "name": "Bretagne",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 217,
+    "country_id": 251,
+    "name": "Calabria",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 218,
+    "country_id": 251,
+    "name": "Marche",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 219,
+    "country_id": 251,
+    "name": "Lazio",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 221,
+    "country_id": 251,
+    "name": "Umbria",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 222,
+    "country_id": 251,
+    "name": "Piemonte",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 226,
+    "country_id": 462,
+    "name": "Northern Ireland",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 250,
+    "country_id": 32,
+    "name": "Andalucia",
+    "created_at": "2026-03-23 09:15:16",
+    "updated_at": "2026-03-23 09:15:16"
+  },
+  {
+    "id": 260,
+    "country_id": 32,
+    "name": "Canarias",
+    "created_at": "2026-03-23 09:15:18",
+    "updated_at": "2026-03-23 09:15:18"
+  },
+  {
+    "id": 263,
+    "country_id": 11,
+    "name": "Thuringen",
+    "created_at": "2026-03-23 09:15:18",
+    "updated_at": "2026-03-23 09:15:18"
+  },
+  {
+    "id": 264,
+    "country_id": 32,
+    "name": "Valenciana, Comunidad",
+    "created_at": "2026-03-23 09:15:18",
+    "updated_at": "2026-03-23 09:15:18"
+  },
+  {
+    "id": 276,
+    "country_id": 11,
+    "name": "Berlin",
+    "created_at": "2026-03-23 09:15:18",
+    "updated_at": "2026-03-23 09:15:18"
+  },
+  {
+    "id": 279,
+    "country_id": 11,
+    "name": "Mecklenburg-Vorpommern",
+    "created_at": "2026-03-23 09:15:18",
+    "updated_at": "2026-03-23 09:15:18"
+  },
+  {
+    "id": 296,
+    "country_id": 17,
+    "name": "Corse",
+    "created_at": "2026-03-23 09:15:18",
+    "updated_at": "2026-03-23 09:15:18"
+  },
+  {
+    "id": 319,
+    "country_id": 251,
+    "name": "Emilia-Romagna",
+    "created_at": "2026-03-23 09:15:19",
+    "updated_at": "2026-03-23 09:15:19"
+  },
+  {
+    "id": 322,
+    "country_id": 17,
+    "name": "Occitanie",
+    "created_at": "2026-03-23 09:15:19",
+    "updated_at": "2026-03-23 09:15:19"
+  },
+  {
+    "id": 344,
+    "country_id": 251,
+    "name": "Molise",
+    "created_at": "2026-03-23 09:15:19",
+    "updated_at": "2026-03-23 09:15:19"
+  },
+  {
+    "id": 347,
+    "country_id": 32,
+    "name": "Castilla y Leon",
+    "created_at": "2026-03-23 09:15:19",
+    "updated_at": "2026-03-23 09:15:19"
+  },
+  {
+    "id": 389,
+    "country_id": 11,
+    "name": "Brandenburg",
+    "created_at": "2026-03-23 09:15:20",
+    "updated_at": "2026-03-23 09:15:20"
+  },
+  {
+    "id": 396,
+    "country_id": 251,
+    "name": "Abruzzo",
+    "created_at": "2026-03-23 09:15:20",
+    "updated_at": "2026-03-23 09:15:20"
+  },
+  {
+    "id": 397,
+    "country_id": 251,
+    "name": "Friuli-Venezia Giulia",
+    "created_at": "2026-03-23 09:15:20",
+    "updated_at": "2026-03-23 09:15:20"
+  },
+  {
+    "id": 412,
+    "country_id": 32,
+    "name": "Aragon",
+    "created_at": "2026-03-23 09:15:20",
+    "updated_at": "2026-03-23 09:15:20"
+  },
+  {
+    "id": 420,
+    "country_id": 17,
+    "name": "Provence-Alpes-Cote-d'Azur",
+    "created_at": "2026-03-23 09:15:20",
+    "updated_at": "2026-03-23 09:15:20"
+  },
+  {
+    "id": 428,
+    "country_id": 32,
+    "name": "Madrid, Comunidad de",
+    "created_at": "2026-03-23 09:15:20",
+    "updated_at": "2026-03-23 09:15:20"
+  },
+  {
+    "id": 434,
+    "country_id": 32,
+    "name": "Castilla-La Mancha",
+    "created_at": "2026-03-23 09:15:20",
+    "updated_at": "2026-03-23 09:15:20"
+  },
+  {
+    "id": 550,
+    "country_id": 251,
+    "name": "Trentino-Alto Adige",
+    "created_at": "2026-03-23 09:15:21",
+    "updated_at": "2026-03-23 09:15:21"
+  },
+  {
+    "id": 560,
+    "country_id": 32,
+    "name": "Illes Balears",
+    "created_at": "2026-03-23 09:15:21",
+    "updated_at": "2026-03-23 09:15:21"
+  },
+  {
+    "id": 568,
+    "country_id": 251,
+    "name": "Liguria",
+    "created_at": "2026-03-23 09:15:21",
+    "updated_at": "2026-03-23 09:15:21"
+  },
+  {
+    "id": 629,
+    "country_id": 32,
+    "name": "Pais Vasco",
+    "created_at": "2026-03-23 09:15:22",
+    "updated_at": "2026-03-23 09:15:22"
+  },
+  {
+    "id": 673,
+    "country_id": 11,
+    "name": "Hamburg",
+    "created_at": "2026-03-23 09:15:25",
+    "updated_at": "2026-03-23 09:15:25"
+  },
+  {
+    "id": 681,
+    "country_id": 11,
+    "name": "Bremen",
+    "created_at": "2026-03-23 09:15:25",
+    "updated_at": "2026-03-23 09:15:25"
+  },
+  {
+    "id": 683,
+    "country_id": 11,
+    "name": "Saarland",
+    "created_at": "2026-03-23 09:15:25",
+    "updated_at": "2026-03-23 09:15:25"
+  },
+  {
+    "id": 691,
+    "country_id": 32,
+    "name": "Navarra, Comunidad Foral de",
+    "created_at": "2026-03-23 09:15:25",
+    "updated_at": "2026-03-23 09:15:25"
+  },
+  {
+    "id": 741,
+    "country_id": 32,
+    "name": "Cantabria",
+    "created_at": "2026-03-23 09:15:26",
+    "updated_at": "2026-03-23 09:15:26"
+  },
+  {
+    "id": 848,
+    "country_id": 251,
+    "name": "Valle d'Aosta",
+    "created_at": "2026-03-23 09:15:28",
+    "updated_at": "2026-03-23 09:15:28"
+  },
+  {
+    "id": 1021,
+    "country_id": 32,
+    "name": "Asturias, Principado de",
+    "created_at": "2026-03-23 09:15:29",
+    "updated_at": "2026-03-23 09:15:29"
+  },
+  {
+    "id": 1772,
+    "country_id": 32,
+    "name": "Ceuta",
+    "created_at": "2026-03-23 09:15:42",
+    "updated_at": "2026-03-23 09:15:42"
+  },
+  {
+    "id": 2716,
+    "country_id": 32,
+    "name": "Melilla",
+    "created_at": "2026-03-23 09:15:51",
+    "updated_at": "2026-03-23 09:15:51"
+  },
+  {
+    "id": 3303,
+    "country_id": 32,
+    "name": "Mallorca",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3309,
+    "country_id": 11,
+    "name": "North Rhine-Westphalia",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3310,
+    "country_id": 462,
+    "name": "Suffolk",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3311,
+    "country_id": 462,
+    "name": "Essex",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3314,
+    "country_id": 462,
+    "name": "Lincolnshire",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3315,
+    "country_id": 462,
+    "name": "West Yorkshire",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3316,
+    "country_id": 32,
+    "name": "Vizcaya",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3317,
+    "country_id": 32,
+    "name": "Navarre",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3318,
+    "country_id": 32,
+    "name": "Basque Country",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3320,
+    "country_id": 462,
+    "name": "Oxfordshire",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3321,
+    "country_id": 462,
+    "name": "Northamptonshire",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3322,
+    "country_id": 462,
+    "name": "Cambridgeshire",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3324,
+    "country_id": 462,
+    "name": "East Yorkshire",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3325,
+    "country_id": 462,
+    "name": "Kent",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3328,
+    "country_id": 462,
+    "name": "Derbyshire",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3330,
+    "country_id": 462,
+    "name": "Lancashire",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3331,
+    "country_id": 462,
+    "name": "Norfolk",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  },
+  {
+    "id": 3336,
+    "country_id": 462,
+    "name": "Leicestershire",
+    "created_at": "2026-03-23 09:15:58",
+    "updated_at": "2026-03-23 09:15:58"
+  }
+]

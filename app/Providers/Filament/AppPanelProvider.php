@@ -11,14 +11,14 @@ use Filament\Http\Middleware\Authenticate;
 use Filament\Http\Middleware\AuthenticateSession;
 use Filament\Http\Middleware\DisableBladeIconComponents;
 use Filament\Http\Middleware\DispatchServingFilamentEvent;
+use Filament\Navigation\NavigationGroup;
 use Filament\Pages\BasePage;
 use Filament\Pages\Dashboard;
 use Filament\Panel;
 use Filament\PanelProvider;
 use Filament\Support\Colors\Color;
+use Filament\Tables\Enums\ColumnManagerLayout;
 use Filament\Tables\Table;
-use Filament\Widgets\AccountWidget;
-use Filament\Widgets\FilamentInfoWidget;
 use Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse;
 use Illuminate\Cookie\Middleware\EncryptCookies;
 use Illuminate\Foundation\Http\Middleware\PreventRequestForgery;
@@ -44,12 +44,15 @@ class AppPanelProvider extends PanelProvider
             ->favicon(asset('favicon-32x32.png'))
             ->databaseNotifications()
             ->sidebarCollapsibleOnDesktop()
-            ->discoverResources(in: app_path('Filament/Resources'), for: 'App\Filament\App\Resources')
-            ->discoverPages(in: app_path('Filament/Pages'), for: 'App\Filament\App\Pages')
+            ->navigationGroups([
+                NavigationGroup::make('Other'),
+            ])
+            ->discoverResources(in: app_path('Filament/Resources'), for: 'App\Filament\Resources')
+            ->discoverPages(in: app_path('Filament/Pages'), for: 'App\Filament\Pages')
             ->pages([
                 Dashboard::class,
             ])
-            ->discoverWidgets(in: app_path('Filament/App/Widgets'), for: 'App\Filament\App\Widgets')
+            ->discoverWidgets(in: app_path('Filament/Widgets'), for: 'App\Filament\Widgets')
             ->widgets([
                 //
             ])
@@ -57,19 +60,21 @@ class AppPanelProvider extends PanelProvider
                 FilamentDeveloperLoginsPlugin::make()
                     ->enabled(app()->environment('local'))
                     ->users(['test' => 'test@example.com'])
-                    ->switchable(false)
+                    ->switchable(false),
             ])
             ->bootUsing(function (): void {
                 // Striped tables
-                Table::configureUsing(fn(Table $table): Table => $table->deferLoading());
+                Table::configureUsing(fn (Table $table): Table => $table->deferLoading());
+                Table::configureUsing(fn (Table $table): Table => $table->columnManagerLayout(ColumnManagerLayout::Modal));
+                Table::configureUsing(fn (Table $table): Table => $table->columnManagerColumns(2));
 
                 // Actions on right side
                 BasePage::alignFormActionsEnd();
 
                 // Set slide-over as default for actions
-                CreateAction::configureUsing(fn(Action $action): Action => $action->slideOver());
-                EditAction::configureUsing(fn(Action $action): Action => $action->slideOver());
-                ViewAction::configureUsing(fn(Action $action): Action => $action->slideOver());
+                CreateAction::configureUsing(fn (Action $action): Action => $action->slideOver());
+                EditAction::configureUsing(fn (Action $action): Action => $action->slideOver());
+                ViewAction::configureUsing(fn (Action $action): Action => $action->slideOver());
             })
             ->middleware([
                 EncryptCookies::class,

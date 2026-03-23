@@ -14,6 +14,14 @@ require_command() {
   fi
 }
 
+require_executable() {
+  local executable_path="$1"
+  if [ ! -x "$executable_path" ]; then
+    echo "Required executable not found: $executable_path"
+    exit 1
+  fi
+}
+
 env_get_from_file() {
   local file_path="$1"
   local key="$2"
@@ -49,6 +57,23 @@ slugify_db() {
 require_command herd
 require_command psql
 
+PSQL_LINK_PATH="$(command -v psql)"
+PSQL_TARGET_PATH="$PSQL_LINK_PATH"
+
+if [ -L "$PSQL_LINK_PATH" ]; then
+  LINK_TARGET="$(readlink "$PSQL_LINK_PATH" || true)"
+  if [ -n "$LINK_TARGET" ]; then
+    if [[ "$LINK_TARGET" = /* ]]; then
+      PSQL_TARGET_PATH="$LINK_TARGET"
+    else
+      PSQL_TARGET_PATH="$(cd "$(dirname "$PSQL_LINK_PATH")" && cd "$(dirname "$LINK_TARGET")" && pwd)/$(basename "$LINK_TARGET")"
+    fi
+  fi
+fi
+
+PSQL_BIN="${SUPERSET_PSQL_BIN:-$PSQL_TARGET_PATH}"
+require_executable "$PSQL_BIN"
+
 DOMAIN_SLUG="$(slugify_domain "$SUPERSET_WORKSPACE_NAME")"
 DOMAIN_NAME="foolymarket-${DOMAIN_SLUG}"
 DOMAIN_NAME="${DOMAIN_NAME:0:63}"
@@ -83,7 +108,7 @@ fi
 
 herd unlink "$DOMAIN_NAME" || true
 
-PGPASSWORD="$DB_PASSWORD" psql -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USERNAME" -d postgres -v ON_ERROR_STOP=1 <<SQL
+PGPASSWORD="$DB_PASSWORD" "$PSQL_BIN" -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USERNAME" -d postgres -v ON_ERROR_STOP=1 <<SQL
 SELECT pg_terminate_backend(pid)
 FROM pg_stat_activity
 WHERE datname = '${TARGET_DB_NAME}'

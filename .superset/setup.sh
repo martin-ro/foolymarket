@@ -24,6 +24,73 @@ require_command() {
   fi
 }
 
+require_executable() {
+  local executable_path="$1"
+  if [ ! -x "$executable_path" ]; then
+    echo "Required executable not found: $executable_path"
+    exit 1
+  fi
+}
+
+pg_major_version() {
+  local executable_path="$1"
+  local version_output
+  version_output="$("$executable_path" --version)"
+  printf '%s' "$version_output" | sed -E 's/.*\) ([0-9]+).*/\1/'
+}
+
+resolve_pg_tools() {
+  local detected_psql
+  local resolved_psql
+  local link_target
+  local detected_dir
+
+  detected_psql="$(command -v psql)"
+  resolved_psql="$detected_psql"
+
+  if [ -L "$detected_psql" ]; then
+    link_target="$(readlink "$detected_psql" || true)"
+    if [ -n "$link_target" ]; then
+      if [[ "$link_target" = /* ]]; then
+        resolved_psql="$link_target"
+      else
+        resolved_psql="$(cd "$(dirname "$detected_psql")" && cd "$(dirname "$link_target")" && pwd)/$(basename "$link_target")"
+      fi
+    fi
+  fi
+
+  detected_dir="$(dirname "$resolved_psql")"
+
+  PSQL_BIN="${SUPERSET_PSQL_BIN:-$resolved_psql}"
+  PG_DUMP_BIN="${SUPERSET_PG_DUMP_BIN:-$detected_dir/pg_dump}"
+  PG_RESTORE_BIN="${SUPERSET_PG_RESTORE_BIN:-$detected_dir/pg_restore}"
+
+  if [ ! -x "$PG_DUMP_BIN" ] || [ ! -x "$PG_RESTORE_BIN" ]; then
+    PG_DUMP_BIN="$(command -v pg_dump)"
+    PG_RESTORE_BIN="$(command -v pg_restore)"
+  fi
+
+  require_executable "$PSQL_BIN"
+  require_executable "$PG_DUMP_BIN"
+  require_executable "$PG_RESTORE_BIN"
+
+  local server_major
+  local dump_major
+  server_major="$(pg_major_version "$PSQL_BIN")"
+  dump_major="$(pg_major_version "$PG_DUMP_BIN")"
+
+  if [ -z "$server_major" ] || [ -z "$dump_major" ]; then
+    echo "Unable to determine PostgreSQL client versions."
+    exit 1
+  fi
+
+  if [ "$server_major" != "$dump_major" ]; then
+    echo "PostgreSQL client mismatch: psql major=$server_major, pg_dump major=$dump_major"
+    echo "Set SUPERSET_PG_DUMP_BIN/SUPERSET_PG_RESTORE_BIN to matching binaries."
+    exit 1
+  fi
+}
+
 env_get() {
   local key="$1"
   local value
@@ -123,9 +190,8 @@ require_command herd
 require_command php
 require_command composer
 require_command npm
-require_command pg_dump
-require_command pg_restore
 require_command psql
+resolve_pg_tools
 
 DOMAIN_SLUG="$(slugify_domain "$SUPERSET_WORKSPACE_NAME")"
 DOMAIN_NAME="foolymarket-${DOMAIN_SLUG}"
@@ -187,7 +253,7 @@ if [ -z "$DB_USERNAME" ]; then
   exit 1
 fi
 
-SOURCE_DB_EXISTS="$(PGPASSWORD="$DB_PASSWORD" psql -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USERNAME" -d postgres -Atqc "SELECT 1 FROM pg_database WHERE datname = '${SOURCE_DB_NAME}'")"
+SOURCE_DB_EXISTS="$(PGPASSWORD="$DB_PASSWORD" "$PSQL_BIN" -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USERNAME" -d postgres -Atqc "SELECT 1 FROM pg_database WHERE datname = '${SOURCE_DB_NAME}'")"
 if [ "$SOURCE_DB_EXISTS" != "1" ]; then
   echo "Source database does not exist: $SOURCE_DB_NAME"
   exit 1
@@ -196,7 +262,7 @@ fi
 DUMP_FILE="$(mktemp -t foolymarket-superset-db.XXXXXX.dump)"
 trap 'rm -f "$DUMP_FILE"' EXIT
 
-PGPASSWORD="$DB_PASSWORD" pg_dump \
+PGPASSWORD="$DB_PASSWORD" "$PG_DUMP_BIN" \
   -h "$DB_HOST" \
   -p "$DB_PORT" \
   -U "$DB_USERNAME" \
@@ -206,7 +272,7 @@ PGPASSWORD="$DB_PASSWORD" pg_dump \
   --no-privileges \
   -f "$DUMP_FILE"
 
-PGPASSWORD="$DB_PASSWORD" psql -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USERNAME" -d postgres -v ON_ERROR_STOP=1 <<SQL
+PGPASSWORD="$DB_PASSWORD" "$PSQL_BIN" -h "$DB_HOST" -p "$DB_PORT" -U "$DB_USERNAME" -d postgres -v ON_ERROR_STOP=1 <<SQL
 SELECT pg_terminate_backend(pid)
 FROM pg_stat_activity
 WHERE datname = '${TARGET_DB_NAME}'
@@ -215,7 +281,7 @@ DROP DATABASE IF EXISTS "${TARGET_DB_NAME}";
 CREATE DATABASE "${TARGET_DB_NAME}";
 SQL
 
-PGPASSWORD="$DB_PASSWORD" pg_restore \
+PGPASSWORD="$DB_PASSWORD" "$PG_RESTORE_BIN" \
   -h "$DB_HOST" \
   -p "$DB_PORT" \
   -U "$DB_USERNAME" \

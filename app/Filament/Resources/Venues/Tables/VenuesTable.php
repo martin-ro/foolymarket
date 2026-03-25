@@ -6,6 +6,7 @@ use App\Filament\Tables\Columns\IdColumn;
 use App\Filament\Tables\Columns\NameColumn;
 use App\Filament\Tables\Columns\PhotoColumn;
 use App\Filament\Tables\Columns\TimeStampColumns;
+use App\Filament\Tables\Filters\CountryFilter;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Table;
 
@@ -23,6 +24,9 @@ class VenuesTable
                 TextColumn::make('capacity')
                     ->numeric(),
                 ...TimeStampColumns::make(),
+            ])
+            ->filters([
+                CountryFilter::make(),
             ]);
     }
 }

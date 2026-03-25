@@ -2,6 +2,9 @@
 
 namespace App\Filament\Resources\States\Tables;
 
+use App\Filament\Tables\Columns\IdColumn;
+use App\Filament\Tables\Columns\NameColumn;
+use App\Filament\Tables\Columns\TimeStampColumns;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Table;
 
@@ -11,29 +14,12 @@ class StatesTable
     {
         return $table
             ->columns([
-                TextColumn::make('id')
-                    ->sortable()
-                    ->searchable(),
-                TextColumn::make('state')
-                    ->searchable(),
-                TextColumn::make('name')
-                    ->searchable(),
-                TextColumn::make('short_name')
-                    ->searchable(),
-                TextColumn::make('developer_name')
-                    ->searchable(),
-                TextColumn::make('deleted_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('created_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('updated_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
+                IdColumn::make(),
+                NameColumn::make(),
+                TextColumn::make('state'),
+                TextColumn::make('short_name'),
+                TextColumn::make('developer_name'),
+                ...TimeStampColumns::make(),
             ]);
     }
 }

@@ -9,7 +9,7 @@ class SportSeeder extends Seeder
 {
     public function run(): void
     {
-        Sport::factory()->create([
+        Sport::create([
             'id' => 1,
             'name' => 'Football',
         ]);

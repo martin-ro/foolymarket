@@ -2,22 +2,21 @@
 
 namespace App\Filament\Resources\States;
 
+use App\Filament\Clusters\System\SystemCluster;
 use App\Filament\Resources\States\Pages\ListStates;
 use App\Filament\Resources\States\Tables\StatesTable;
+use App\Filament\Traits\HasSoftDeletes;
 use App\Models\State;
-use BackedEnum;
 use Filament\Resources\Resource;
-use Filament\Support\Icons\Heroicon;
 use Filament\Tables\Table;
-use UnitEnum;
 
 class StateResource extends Resource
 {
+    use HasSoftDeletes;
+
     protected static ?string $model = State::class;
 
-    protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedRectangleStack;
-
-    protected static string|UnitEnum|null $navigationGroup = 'Other';
+    protected static ?string $cluster = SystemCluster::class;
 
     protected static ?string $recordTitleAttribute = 'name';
 

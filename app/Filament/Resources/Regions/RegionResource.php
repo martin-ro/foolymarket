@@ -5,6 +5,7 @@ namespace App\Filament\Resources\Regions;
 use App\Filament\Clusters\Locations\LocationsCluster;
 use App\Filament\Resources\Regions\Pages\ListRegions;
 use App\Filament\Resources\Regions\Tables\RegionsTable;
+use App\Filament\Traits\HasSoftDeletes;
 use App\Models\Region;
 use BackedEnum;
 use Daljo25\FilamentTablerIcons\Enums\TablerIcon;
@@ -13,6 +14,8 @@ use Filament\Tables\Table;
 
 class RegionResource extends Resource
 {
+    use HasSoftDeletes;
+
     protected static ?string $model = Region::class;
 
     protected static ?string $cluster = LocationsCluster::class;

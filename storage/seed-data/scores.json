@@ -1,0 +1,90 @@
+[
+    {
+        "id": 2893,
+        "fixture_id": 463,
+        "type_id": 1,
+        "participant_id": 6,
+        "score": "{\"goals\": 0, \"participant\": \"home\"}",
+        "description": "1ST_HALF",
+        "deleted_at": null,
+        "created_at": "2026-03-25T08:00:00.000000Z",
+        "updated_at": "2026-03-25T08:00:00.000000Z"
+    },
+    {
+        "id": 2894,
+        "fixture_id": 463,
+        "type_id": 1,
+        "participant_id": 9,
+        "score": "{\"goals\": 0, \"participant\": \"away\"}",
+        "description": "1ST_HALF",
+        "deleted_at": null,
+        "created_at": "2026-03-25T08:00:00.000000Z",
+        "updated_at": "2026-03-25T08:00:00.000000Z"
+    },
+    {
+        "id": 2895,
+        "fixture_id": 463,
+        "type_id": 2,
+        "participant_id": 6,
+        "score": "{\"goals\": 0, \"participant\": \"home\"}",
+        "description": "2ND_HALF",
+        "deleted_at": null,
+        "created_at": "2026-03-25T08:00:00.000000Z",
+        "updated_at": "2026-03-25T08:00:00.000000Z"
+    },
+    {
+        "id": 2896,
+        "fixture_id": 463,
+        "type_id": 2,
+        "participant_id": 9,
+        "score": "{\"goals\": 0, \"participant\": \"away\"}",
+        "description": "2ND_HALF",
+        "deleted_at": null,
+        "created_at": "2026-03-25T08:00:00.000000Z",
+        "updated_at": "2026-03-25T08:00:00.000000Z"
+    },
+    {
+        "id": 2899,
+        "fixture_id": 464,
+        "type_id": 1,
+        "participant_id": 8,
+        "score": "{\"goals\": 1, \"participant\": \"home\"}",
+        "description": "1ST_HALF",
+        "deleted_at": null,
+        "created_at": "2026-03-25T08:00:00.000000Z",
+        "updated_at": "2026-03-25T08:00:00.000000Z"
+    },
+    {
+        "id": 2900,
+        "fixture_id": 464,
+        "type_id": 1,
+        "participant_id": 26,
+        "score": "{\"goals\": 0, \"participant\": \"away\"}",
+        "description": "1ST_HALF",
+        "deleted_at": null,
+        "created_at": "2026-03-25T08:00:00.000000Z",
+        "updated_at": "2026-03-25T08:00:00.000000Z"
+    },
+    {
+        "id": 2901,
+        "fixture_id": 464,
+        "type_id": 2,
+        "participant_id": 8,
+        "score": "{\"goals\": 1, \"participant\": \"home\"}",
+        "description": "2ND_HALF",
+        "deleted_at": null,
+        "created_at": "2026-03-25T08:00:00.000000Z",
+        "updated_at": "2026-03-25T08:00:00.000000Z"
+    },
+    {
+        "id": 2902,
+        "fixture_id": 464,
+        "type_id": 2,
+        "participant_id": 26,
+        "score": "{\"goals\": 0, \"participant\": \"away\"}",
+        "description": "2ND_HALF",
+        "deleted_at": null,
+        "created_at": "2026-03-25T08:00:00.000000Z",
+        "updated_at": "2026-03-25T08:00:00.000000Z"
+    }
+]

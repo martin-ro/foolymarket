@@ -11,8 +11,9 @@
     "longitude": 19.3777599,
     "borders": "[\"BLR\",\"CZE\",\"DEU\",\"LTU\",\"RUS\",\"SVK\",\"UKR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/pl.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 5,
@@ -26,8 +27,9 @@
     "longitude": -52.9731178,
     "borders": "[\"ARG\",\"BOL\",\"COL\",\"GUF\",\"GUY\",\"PRY\",\"PER\",\"SUR\",\"URY\",\"VEN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/br.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 11,
@@ -41,8 +43,9 @@
     "longitude": 10.3822031,
     "borders": "[\"AUT\",\"BEL\",\"CZE\",\"DNK\",\"FRA\",\"LUX\",\"NLD\",\"POL\",\"CHE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/de.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 17,
@@ -56,8 +59,9 @@
     "longitude": 2.3382623,
     "borders": "[\"AND\",\"BEL\",\"DEU\",\"ITA\",\"LUX\",\"MCO\",\"ESP\",\"CHE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/fr.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 20,
@@ -71,8 +75,9 @@
     "longitude": -8.0094223,
     "borders": "[\"ESP\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/pt.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 23,
@@ -86,8 +91,9 @@
     "longitude": -5.5525746,
     "borders": "[\"BFA\",\"GHA\",\"GIN\",\"LBR\",\"MLI\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ci.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 26,
@@ -101,8 +107,9 @@
     "longitude": -3.5273819,
     "borders": "[\"DZA\",\"BFA\",\"GIN\",\"CIV\",\"MRT\",\"NER\",\"SEN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ml.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 32,
@@ -116,8 +123,9 @@
     "longitude": -3.5506926,
     "borders": "[\"AND\",\"FRA\",\"GIB\",\"PRT\",\"MAR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/es.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 38,
@@ -131,8 +139,9 @@
     "longitude": 5.5281572,
     "borders": "[\"BEL\",\"DEU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/nl.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 41,
@@ -146,8 +155,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/eu.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 44,
@@ -161,8 +171,9 @@
     "longitude": -64.8545074,
     "borders": "[\"BOL\",\"BRA\",\"CHL\",\"PRY\",\"URY\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ar.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 47,
@@ -176,8 +187,9 @@
     "longitude": 16.7980595,
     "borders": "[\"FIN\",\"NOR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/se.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 62,
@@ -191,8 +203,9 @@
     "longitude": 8.2228546,
     "borders": "[\"AUT\",\"FRA\",\"ITA\",\"LIE\",\"DEU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ch.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 80,
@@ -206,8 +219,9 @@
     "longitude": -71.6746750,
     "borders": "[\"ARG\",\"BOL\",\"PER\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cl.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 86,
@@ -221,8 +235,9 @@
     "longitude": 31.4757824,
     "borders": "[\"BLR\",\"HUN\",\"MDA\",\"POL\",\"ROU\",\"RUS\",\"SVK\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ua.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 98,
@@ -236,8 +251,9 @@
     "longitude": 134.5041199,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/au.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 107,
@@ -251,8 +267,9 @@
     "longitude": 43.7749557,
     "borders": "[\"IRN\",\"JOR\",\"KWT\",\"SAU\",\"SYR\",\"TUR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/iq.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 116,
@@ -266,8 +283,9 @@
     "longitude": 33.4867172,
     "borders": "[\"GBR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cy.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 119,
@@ -281,8 +299,9 @@
     "longitude": 43.3713615,
     "borders": "[\"ARM\",\"AZE\",\"RUS\",\"TUR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ge.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 122,
@@ -296,8 +315,9 @@
     "longitude": null,
     "borders": "[\"ALB\",\"MKD\",\"MNE\",\"SRB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/xk.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 125,
@@ -311,8 +331,9 @@
     "longitude": 21.8974094,
     "borders": "[\"ALB\",\"BGR\",\"TUR\",\"MKD\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gr.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 143,
@@ -326,8 +347,9 @@
     "longitude": 14.1402111,
     "borders": "[\"CZE\",\"DEU\",\"HUN\",\"ITA\",\"LIE\",\"SVK\",\"SVN\",\"CHE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/at.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 146,
@@ -341,8 +363,9 @@
     "longitude": 25.0628796,
     "borders": "[\"BWA\",\"LSO\",\"MOZ\",\"NAM\",\"SWZ\",\"ZWE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/za.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 147,
@@ -356,8 +379,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 155,
@@ -371,8 +395,9 @@
     "longitude": 25.0059357,
     "borders": "[\"BGR\",\"HUN\",\"MDA\",\"SRB\",\"UKR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ro.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 158,
@@ -386,8 +411,9 @@
     "longitude": -56.0559082,
     "borders": "[\"ARG\",\"BRA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/uy.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 200,
@@ -401,8 +427,9 @@
     "longitude": -14.5316439,
     "borders": "[\"GMB\",\"GIN\",\"GNB\",\"MLI\",\"MRT\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sn.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 212,
@@ -416,8 +443,9 @@
     "longitude": 28.0540943,
     "borders": "[\"LVA\",\"LTU\",\"POL\",\"RUS\",\"UKR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/by.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 224,
@@ -431,8 +459,9 @@
     "longitude": 25.2837334,
     "borders": "[\"GRC\",\"MKD\",\"ROU\",\"SRB\",\"TUR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bg.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 227,
@@ -446,8 +475,9 @@
     "longitude": 103.7539825,
     "borders": "[\"AZE\",\"BLR\",\"CHN\",\"EST\",\"FIN\",\"GEO\",\"KAZ\",\"PRK\",\"LVA\",\"LTU\",\"MNG\",\"NOR\",\"POL\",\"UKR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ru.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 245,
@@ -461,8 +491,9 @@
     "longitude": 15.3315010,
     "borders": "[\"AUT\",\"DEU\",\"POL\",\"SVK\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cz.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 251,
@@ -476,8 +507,9 @@
     "longitude": 12.4938231,
     "borders": "[\"AUT\",\"FRA\",\"SMR\",\"SVN\",\"CHE\",\"VAT\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/it.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 266,
@@ -491,8 +523,9 @@
     "longitude": 15.7345037,
     "borders": "[\"BIH\",\"HUN\",\"MNE\",\"SRB\",\"SVN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/hr.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 275,
@@ -506,8 +539,9 @@
     "longitude": -66.1454163,
     "borders": "[\"BRA\",\"COL\",\"GUY\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ve.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 296,
@@ -521,8 +555,9 @@
     "longitude": 20.7979584,
     "borders": "[\"BIH\",\"BGR\",\"HRV\",\"HUN\",\"UNK\",\"MKD\",\"MNE\",\"ROU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/rs.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 311,
@@ -536,8 +571,9 @@
     "longitude": 165.2985840,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/nc.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 320,
@@ -551,8 +587,9 @@
     "longitude": 9.5559072,
     "borders": "[\"DEU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/dk.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 338,
@@ -566,8 +603,9 @@
     "longitude": -74.4221191,
     "borders": "[\"BOL\",\"BRA\",\"CHL\",\"COL\",\"ECU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/pe.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 353,
@@ -581,8 +619,9 @@
     "longitude": -73.2779694,
     "borders": "[\"BRA\",\"ECU\",\"PAN\",\"PER\",\"VEN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/co.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 401,
@@ -596,8 +635,9 @@
     "longitude": 19.4848900,
     "borders": "[\"AUT\",\"CZE\",\"HUN\",\"POL\",\"UKR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sk.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 404,
@@ -611,8 +651,9 @@
     "longitude": 34.9303398,
     "borders": "[\"ARM\",\"AZE\",\"BGR\",\"GEO\",\"GRC\",\"IRN\",\"IRQ\",\"SYR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tr.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 455,
@@ -626,8 +667,9 @@
     "longitude": -8.1961021,
     "borders": "[\"GBR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ie.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 458,
@@ -641,8 +683,9 @@
     "longitude": -102.6334000,
     "borders": "[\"BLZ\",\"GTM\",\"USA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mx.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 459,
@@ -656,8 +699,9 @@
     "longitude": -78.8710403,
     "borders": "[\"COL\",\"PER\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ec.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 462,
@@ -671,8 +715,9 @@
     "longitude": -2.2125118,
     "borders": "[\"IRL\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/en.png",
-    "created_at": "2026-03-24 00:20:59",
-    "updated_at": "2026-03-24 00:20:59"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 468,
@@ -686,8 +731,9 @@
     "longitude": -1.2043862,
     "borders": "[\"BFA\",\"CIV\",\"TGO\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gh.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 479,
@@ -701,8 +747,9 @@
     "longitude": 139.0772705,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/jp.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 488,
@@ -716,8 +763,9 @@
     "longitude": 54.2942009,
     "borders": "[\"AFG\",\"ARM\",\"AZE\",\"IRQ\",\"PAK\",\"TUR\",\"TKM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ir.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 491,
@@ -731,8 +779,9 @@
     "longitude": -8.1961021,
     "borders": "[\"GBR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/nd.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 507,
@@ -746,8 +795,9 @@
     "longitude": 17.7902412,
     "borders": "[\"HRV\",\"MNE\",\"SRB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ba.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 515,
@@ -761,8 +811,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/wa.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 556,
@@ -776,8 +827,9 @@
     "longitude": 4.6415024,
     "borders": "[\"FRA\",\"DEU\",\"LUX\",\"NLD\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/be.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 593,
@@ -791,8 +843,9 @@
     "longitude": 12.7228775,
     "borders": "[\"CAF\",\"TCD\",\"COG\",\"GNQ\",\"GAB\",\"NGA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cm.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 607,
@@ -806,8 +859,9 @@
     "longitude": -1.7455606,
     "borders": "[\"BEN\",\"CIV\",\"GHA\",\"MLI\",\"NER\",\"TGO\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bf.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 614,
@@ -821,8 +875,9 @@
     "longitude": 2.6547282,
     "borders": "[\"TUN\",\"LBY\",\"NER\",\"ESH\",\"MRT\",\"MLI\",\"MAR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/dz.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 674,
@@ -836,8 +891,9 @@
     "longitude": 19.4165745,
     "borders": "[\"AUT\",\"HRV\",\"ROU\",\"SRB\",\"SVK\",\"SVN\",\"UKR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/hu.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 712,
@@ -851,8 +907,9 @@
     "longitude": 127.1338501,
     "borders": "[\"PRK\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/kr.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 716,
@@ -866,8 +923,9 @@
     "longitude": 8.0778809,
     "borders": "[\"BEN\",\"CMR\",\"TCD\",\"NER\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ng.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 719,
@@ -881,8 +939,9 @@
     "longitude": -9.3234921,
     "borders": "[\"GIN\",\"CIV\",\"SLE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/lr.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 748,
@@ -896,8 +955,9 @@
     "longitude": 24.8402443,
     "borders": "[\"BLR\",\"EST\",\"LTU\",\"RUS\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/lv.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 772,
@@ -911,8 +971,9 @@
     "longitude": -23.7034512,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cv.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 802,
@@ -926,8 +987,9 @@
     "longitude": 34.7533722,
     "borders": "[\"EGY\",\"JOR\",\"LBN\",\"SYR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/il.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 821,
@@ -941,8 +1003,9 @@
     "longitude": 29.8865089,
     "borders": "[\"COD\",\"RWA\",\"TZA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bi.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 886,
@@ -956,8 +1019,9 @@
     "longitude": 29.8622971,
     "borders": "[\"ISR\",\"LBY\",\"SDN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/eg.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 911,
@@ -971,8 +1035,9 @@
     "longitude": 17.5394650,
     "borders": "[\"COG\",\"COD\",\"ZMB\",\"NAM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ao.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 919,
@@ -986,8 +1051,9 @@
     "longitude": 44.9394722,
     "borders": "[\"AZE\",\"GEO\",\"IRN\",\"TUR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/am.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 998,
@@ -1001,8 +1067,9 @@
     "longitude": 19.2379189,
     "borders": "[\"ALB\",\"BIH\",\"HRV\",\"UNK\",\"SRB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/me.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1004,
@@ -1016,8 +1083,9 @@
     "longitude": -95.9133224,
     "borders": "[\"USA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ca.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1040,
@@ -1031,8 +1099,9 @@
     "longitude": 55.6312485,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/re.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1161,
@@ -1046,8 +1115,9 @@
     "longitude": -2.2125118,
     "borders": "[\"IRL\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gb.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1176,
@@ -1061,8 +1131,9 @@
     "longitude": -86.2647705,
     "borders": "[\"GTM\",\"SLV\",\"NIC\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/hn.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1179,
@@ -1076,8 +1147,9 @@
     "longitude": 37.8398895,
     "borders": "[\"ETH\",\"SOM\",\"SSD\",\"TZA\",\"UGA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ke.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1190,
@@ -1091,8 +1163,9 @@
     "longitude": -58.3951721,
     "borders": "[\"ARG\",\"BOL\",\"BRA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/py.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1233,
@@ -1106,8 +1179,9 @@
     "longitude": 25.9894028,
     "borders": "[\"NOR\",\"SWE\",\"RUS\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/fi.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1247,
@@ -1121,8 +1195,9 @@
     "longitude": 20.4869232,
     "borders": "[\"CMR\",\"TCD\",\"COD\",\"COG\",\"SSD\",\"SDN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cf.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1320,
@@ -1136,8 +1211,9 @@
     "longitude": 23.6563778,
     "borders": "[\"AGO\",\"BDI\",\"CAF\",\"COG\",\"RWA\",\"SSD\",\"TZA\",\"UGA\",\"ZMB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cd.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1424,
@@ -1151,8 +1227,9 @@
     "longitude": -8.9533882,
     "borders": "[\"DZA\",\"ESH\",\"ESP\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ma.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1439,
@@ -1166,8 +1243,9 @@
     "longitude": 9.2452593,
     "borders": "[\"DZA\",\"LBY\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tn.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1560,
@@ -1181,8 +1259,9 @@
     "longitude": 23.6563778,
     "borders": "[\"AGO\",\"CMR\",\"CAF\",\"COD\",\"GAB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cg.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1578,
@@ -1196,8 +1275,9 @@
     "longitude": 14.8999252,
     "borders": "[\"FIN\",\"SWE\",\"RUS\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/no.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1638,
@@ -1211,8 +1291,9 @@
     "longitude": 14.8206644,
     "borders": "[\"AUT\",\"HRV\",\"ITA\",\"HUN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/si.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1640,
@@ -1226,8 +1307,9 @@
     "longitude": -77.3465500,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/jm.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1646,
@@ -1241,8 +1323,9 @@
     "longitude": 46.6984329,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mg.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1703,
@@ -1256,8 +1339,9 @@
     "longitude": -10.9895496,
     "borders": "[\"CIV\",\"GNB\",\"LBR\",\"MLI\",\"SEN\",\"SLE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gn.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1707,
@@ -1271,8 +1355,9 @@
     "longitude": -14.7481365,
     "borders": "[\"GIN\",\"SEN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gw.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1739,
@@ -1286,8 +1371,9 @@
     "longitude": -84.2272339,
     "borders": "[\"NIC\",\"PAN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cr.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1796,
@@ -1301,8 +1387,9 @@
     "longitude": -18.9617004,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/is.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1985,
@@ -1316,8 +1403,9 @@
     "longitude": -58.9434624,
     "borders": "[\"BRA\",\"SUR\",\"VEN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gy.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2079,
@@ -1331,8 +1419,9 @@
     "longitude": 23.8709240,
     "borders": "[\"BLR\",\"LVA\",\"POL\",\"RUS\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/lt.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2088,
@@ -1346,8 +1435,9 @@
     "longitude": -55.8892174,
     "borders": "[\"BRA\",\"GUF\",\"GUY\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sr.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2154,
@@ -1361,8 +1451,9 @@
     "longitude": -6.8182554,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/fo.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2177,
@@ -1376,8 +1467,9 @@
     "longitude": -72.2412796,
     "borders": "[\"DOM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ht.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2228,
@@ -1391,8 +1483,9 @@
     "longitude": -61.1640625,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tt.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2325,
@@ -1406,8 +1499,9 @@
     "longitude": 29.8687611,
     "borders": "[\"BWA\",\"MOZ\",\"ZAF\",\"ZMB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/zw.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2345,
@@ -1421,8 +1515,9 @@
     "longitude": 28.4683437,
     "borders": "[\"ROU\",\"UKR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/md.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2405,
@@ -1436,8 +1531,9 @@
     "longitude": 25.2416248,
     "borders": "[\"LVA\",\"RUS\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ee.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2426,
@@ -1451,8 +1547,9 @@
     "longitude": 63.1458893,
     "borders": "[\"AFG\",\"KAZ\",\"KGZ\",\"TJK\",\"TKM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/uz.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2427,
@@ -1466,8 +1563,9 @@
     "longitude": 67.1791687,
     "borders": "[\"CHN\",\"KGZ\",\"RUS\",\"TKM\",\"UZB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/kz.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2453,
@@ -1481,8 +1579,9 @@
     "longitude": 47.8082008,
     "borders": "[\"ARM\",\"GEO\",\"IRN\",\"RUS\",\"TUR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/az.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2454,
@@ -1496,8 +1595,9 @@
     "longitude": 20.0274525,
     "borders": "[\"MNE\",\"GRC\",\"MKD\",\"UNK\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/al.png",
-    "created_at": "2026-03-24 00:21:00",
-    "updated_at": "2026-03-24 00:21:00"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2493,
@@ -1511,8 +1611,9 @@
     "longitude": -10.3644371,
     "borders": "[\"DZA\",\"MLI\",\"SEN\",\"ESH\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mr.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2507,
@@ -1526,8 +1627,9 @@
     "longitude": -15.4908848,
     "borders": "[\"SEN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gm.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2568,
@@ -1541,8 +1643,9 @@
     "longitude": 27.7880974,
     "borders": "[\"AGO\",\"BWA\",\"COD\",\"MWI\",\"MOZ\",\"NAM\",\"TZA\",\"ZWE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/zm.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2756,
@@ -1556,8 +1659,9 @@
     "longitude": 14.3810339,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mt.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2802,
@@ -1571,8 +1675,9 @@
     "longitude": 54.5366440,
     "borders": "[\"OMN\",\"SAU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ae.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2817,
@@ -1586,8 +1691,9 @@
     "longitude": 170.3541565,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/nz.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 2931,
@@ -1601,8 +1707,9 @@
     "longitude": 1.5762333,
     "borders": "[\"FRA\",\"ESP\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ad.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3039,
@@ -1616,8 +1723,9 @@
     "longitude": 0.9800975,
     "borders": "[\"BEN\",\"BFA\",\"GHA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tg.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3126,
@@ -1631,8 +1739,9 @@
     "longitude": 6.0947461,
     "borders": "[\"BEL\",\"FRA\",\"DEU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/lu.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3347,
@@ -1646,8 +1755,9 @@
     "longitude": 12.4633932,
     "borders": "[\"ITA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sm.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3374,
@@ -1661,8 +1771,9 @@
     "longitude": -5.3492489,
     "borders": "[\"ESP\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gi.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3483,
@@ -1676,8 +1787,9 @@
     "longitude": -98.9573364,
     "borders": "[\"CAN\",\"MEX\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/us.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3569,
@@ -1691,8 +1803,9 @@
     "longitude": -53.1683083,
     "borders": "[\"BRA\",\"SUR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gf.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3662,
@@ -1706,8 +1819,9 @@
     "longitude": 11.7386084,
     "borders": "[\"CMR\",\"COG\",\"GNQ\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ga.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3677,
@@ -1721,8 +1835,9 @@
     "longitude": 38.4734726,
     "borders": "[\"IRQ\",\"ISR\",\"JOR\",\"LBN\",\"TUR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sy.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3779,
@@ -1736,8 +1851,9 @@
     "longitude": -61.5674171,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gp.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3990,
@@ -1751,8 +1867,9 @@
     "longitude": -84.9218216,
     "borders": "[\"CRI\",\"HND\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ni.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3995,
@@ -1766,8 +1883,9 @@
     "longitude": 102.9626160,
     "borders": "[\"BRN\",\"IDN\",\"THA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/my.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 4125,
@@ -1781,8 +1899,9 @@
     "longitude": 32.3899841,
     "borders": "[\"COD\",\"KEN\",\"RWA\",\"SSD\",\"TZA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ug.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 4829,
@@ -1796,8 +1915,9 @@
     "longitude": 45.1422729,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/yt.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 5120,
@@ -1811,8 +1931,9 @@
     "longitude": -60.9775543,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mq.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 5618,
@@ -1826,8 +1947,9 @@
     "longitude": 103.9754333,
     "borders": "[\"AFG\",\"BTN\",\"MMR\",\"HKG\",\"IND\",\"KAZ\",\"PRK\",\"KGZ\",\"LAO\",\"MAC\",\"MNG\",\"PAK\",\"RUS\",\"TJK\",\"VNM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cn.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 5724,
@@ -1841,8 +1963,9 @@
     "longitude": -11.8438902,
     "borders": "[\"GIN\",\"LBR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sl.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 5790,
@@ -1856,8 +1979,9 @@
     "longitude": 17.1775265,
     "borders": "[\"AGO\",\"BWA\",\"ZAF\",\"ZMB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/na.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 6783,
@@ -1871,8 +1995,9 @@
     "longitude": 35.9556923,
     "borders": "[\"MWI\",\"ZAF\",\"SWZ\",\"TZA\",\"ZMB\",\"ZWE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mz.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 7091,
@@ -1886,8 +2011,9 @@
     "longitude": 56.1579628,
     "borders": "[\"SAU\",\"ARE\",\"YEM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/om.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 7437,
@@ -1901,8 +2027,9 @@
     "longitude": -68.9450531,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cw.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 7563,
@@ -1916,8 +2043,9 @@
     "longitude": 47.4736061,
     "borders": "[\"DJI\",\"ETH\",\"KEN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/so.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 7598,
@@ -1931,8 +2059,9 @@
     "longitude": -64.6666489,
     "borders": "[\"ARG\",\"BRA\",\"CHL\",\"PRY\",\"PER\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bo.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 7830,
@@ -1946,8 +2075,9 @@
     "longitude": 2.3377388,
     "borders": "[\"BFA\",\"NER\",\"NGA\",\"TGO\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bj.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 11256,
@@ -1961,8 +2091,9 @@
     "longitude": 31.4981136,
     "borders": "[\"MOZ\",\"ZAF\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sz.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 12095,
@@ -1976,8 +2107,9 @@
     "longitude": -60.9665642,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/lc.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 14837,
@@ -1991,8 +2123,9 @@
     "longitude": -62.1888199,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ms.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 15326,
@@ -2006,8 +2139,9 @@
     "longitude": -64.7516861,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bm.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 16175,
@@ -2021,8 +2155,9 @@
     "longitude": 18.0435562,
     "borders": "[\"DZA\",\"TCD\",\"EGY\",\"NER\",\"SDN\",\"TUN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ly.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 20802,
@@ -2036,8 +2171,9 @@
     "longitude": 33.8354645,
     "borders": "[\"MOZ\",\"TZA\",\"ZMB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mw.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 21462,
@@ -2051,8 +2187,9 @@
     "longitude": 47.6024666,
     "borders": "[\"IRQ\",\"SAU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/kw.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 21795,
@@ -2066,8 +2203,9 @@
     "longitude": 9.5527830,
     "borders": "[\"AUT\",\"CHE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/li.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 26833,
@@ -2081,8 +2219,9 @@
     "longitude": -61.6469307,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gd.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 33497,
@@ -2096,8 +2235,9 @@
     "longitude": -59.5485954,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bb.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 35008,
@@ -2111,8 +2251,9 @@
     "longitude": -88.8636322,
     "borders": "[\"GTM\",\"HND\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sv.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 35185,
@@ -2126,8 +2267,9 @@
     "longitude": -2.1228929,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/je.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 35210,
@@ -2141,8 +2283,9 @@
     "longitude": 34.8539276,
     "borders": "[\"BDI\",\"COD\",\"KEN\",\"MWI\",\"MOZ\",\"RWA\",\"UGA\",\"ZMB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tz.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 35376,
@@ -2156,8 +2299,9 @@
     "longitude": 44.4013557,
     "borders": "[\"IRQ\",\"JOR\",\"KWT\",\"OMN\",\"QAT\",\"ARE\",\"YEM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sa.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 37528,
@@ -2171,8 +2315,9 @@
     "longitude": -81.2568054,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ky.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 38404,
@@ -2186,8 +2331,9 @@
     "longitude": 80.6807251,
     "borders": "[\"IND\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/lk.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 39214,
@@ -2201,8 +2347,9 @@
     "longitude": -61.1934471,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/vc.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 41302,
@@ -2216,8 +2363,9 @@
     "longitude": -64.5713043,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/vg.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 43321,
@@ -2231,8 +2379,9 @@
     "longitude": 39.0871887,
     "borders": "[\"DJI\",\"ETH\",\"SDN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/er.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 43444,
@@ -2246,8 +2395,9 @@
     "longitude": 66.0252838,
     "borders": "[\"IRN\",\"PAK\",\"TKM\",\"UZB\",\"TJK\",\"CHN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/af.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 44569,
@@ -2261,8 +2411,9 @@
     "longitude": -69.9693146,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/aw.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 44983,
@@ -2276,8 +2427,9 @@
     "longitude": 39.6375542,
     "borders": "[\"DJI\",\"ERI\",\"KEN\",\"SOM\",\"SSD\",\"SDN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/et.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 45412,
@@ -2291,8 +2443,9 @@
     "longitude": 35.8997269,
     "borders": "[\"ISR\",\"SYR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/lb.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 47329,
@@ -2306,8 +2459,9 @@
     "longitude": -68.2385340,
     "borders": null,
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bq.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 48946,
@@ -2321,8 +2475,9 @@
     "longitude": 35.2597351,
     "borders": "[\"ISR\",\"EGY\",\"JOR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ps.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 49438,
@@ -2336,8 +2491,9 @@
     "longitude": 74.5552216,
     "borders": "[\"CHN\",\"KAZ\",\"TJK\",\"UZB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/kg.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 49477,
@@ -2351,8 +2507,9 @@
     "longitude": 100.8519135,
     "borders": "[\"MMR\",\"KHM\",\"LAO\",\"MYS\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/th.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 50809,
@@ -2366,8 +2523,9 @@
     "longitude": 122.5094757,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ph.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 52126,
@@ -2381,8 +2539,9 @@
     "longitude": 69.3577423,
     "borders": "[\"AFG\",\"CHN\",\"IND\",\"IRN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/pk.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 53128,
@@ -2396,8 +2555,9 @@
     "longitude": -90.3486557,
     "borders": "[\"BLZ\",\"SLV\",\"HND\",\"MEX\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gt.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 55408,
@@ -2411,8 +2571,9 @@
     "longitude": 146.2144470,
     "borders": "[\"IDN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/pg.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 56518,
@@ -2426,8 +2587,9 @@
     "longitude": 30.0873909,
     "borders": "[\"CAF\",\"TCD\",\"EGY\",\"ERI\",\"ETH\",\"LBY\",\"SSD\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sd.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 57142,
@@ -2441,8 +2603,9 @@
     "longitude": 21.7008953,
     "borders": "[\"ALB\",\"BGR\",\"GRC\",\"UNK\",\"SRB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mk.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 57160,
@@ -2456,8 +2619,9 @@
     "longitude": 70.8990631,
     "borders": "[\"AFG\",\"CHN\",\"KGZ\",\"UZB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tj.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 63604,
@@ -2471,8 +2635,9 @@
     "longitude": -79.4531479,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/cu.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 64306,
@@ -2486,8 +2651,9 @@
     "longitude": 114.1869659,
     "borders": "[\"CHN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/hk.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 65053,
@@ -2501,8 +2667,9 @@
     "longitude": 9.4006338,
     "borders": "[\"DZA\",\"BEN\",\"BFA\",\"TCD\",\"LBY\",\"MLI\",\"NGA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ne.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 65437,
@@ -2516,8 +2683,9 @@
     "longitude": -80.5060730,
     "borders": "[\"COL\",\"CRI\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/pa.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 69697,
@@ -2531,8 +2699,9 @@
     "longitude": 106.8164291,
     "borders": "[\"KHM\",\"CHN\",\"LAO\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/vn.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 74505,
@@ -2546,8 +2715,9 @@
     "longitude": 51.2602654,
     "borders": "[\"SAU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/qa.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 75285,
@@ -2561,8 +2731,9 @@
     "longitude": 7.4254832,
     "borders": "[\"FRA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mc.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 77505,
@@ -2576,8 +2747,9 @@
     "longitude": 126.0790253,
     "borders": "[\"IDN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tl.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 77580,
@@ -2591,8 +2763,9 @@
     "longitude": -66.6280365,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/pr.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 79146,
@@ -2606,8 +2779,9 @@
     "longitude": -70.7928543,
     "borders": "[\"HTI\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/do.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 80919,
@@ -2621,8 +2795,9 @@
     "longitude": -77.3951263,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bs.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 83175,
@@ -2636,8 +2811,9 @@
     "longitude": 59.0822525,
     "borders": "[\"AFG\",\"IRN\",\"KAZ\",\"UZB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tm.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 86958,
@@ -2651,8 +2827,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 88137,
@@ -2666,8 +2843,9 @@
     "longitude": 29.9260578,
     "borders": "[\"BDI\",\"COD\",\"TZA\",\"UGA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/rw.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 88407,
@@ -2681,8 +2859,9 @@
     "longitude": 115.4189987,
     "borders": "[\"TLS\",\"MYS\",\"PNG\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/id.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 97374,
@@ -2696,8 +2875,9 @@
     "longitude": 36.8283882,
     "borders": "[\"IRQ\",\"ISR\",\"SAU\",\"SYR\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/jo.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 97434,
@@ -2711,8 +2891,9 @@
     "longitude": -63.0662346,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sx.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 98799,
@@ -2726,8 +2907,9 @@
     "longitude": 18.6675816,
     "borders": "[\"CMR\",\"CAF\",\"LBY\",\"NER\",\"NGA\",\"SSD\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/td.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 99474,
@@ -2741,8 +2923,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 137919,
@@ -2756,8 +2939,9 @@
     "longitude": -61.8104095,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ag.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 144816,
@@ -2771,8 +2955,9 @@
     "longitude": -88.6697388,
     "borders": "[\"GTM\",\"MEX\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bz.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 153732,
@@ -2786,8 +2971,9 @@
     "longitude": 79.4580917,
     "borders": "[\"AFG\",\"BGD\",\"BTN\",\"MMR\",\"CHN\",\"NPL\",\"PAK\",\"LKA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/in.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 155043,
@@ -2801,8 +2987,9 @@
     "longitude": 90.3065262,
     "borders": "[\"MMR\",\"IND\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bd.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 160047,
@@ -2816,8 +3003,9 @@
     "longitude": -62.6431847,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/kn.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 179748,
@@ -2831,8 +3019,9 @@
     "longitude": 6.6316280,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/st.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 190317,
@@ -2846,8 +3035,9 @@
     "longitude": 30.2807522,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ss.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 190318,
@@ -2861,8 +3051,9 @@
     "longitude": 47.4898872,
     "borders": "[\"OMN\",\"SAU\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ye.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 190321,
@@ -2876,8 +3067,9 @@
     "longitude": 50.5429955,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bh.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 190324,
@@ -2891,8 +3083,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 191038,
@@ -2906,8 +3099,9 @@
     "longitude": 23.8149414,
     "borders": "[\"NAM\",\"ZAF\",\"ZMB\",\"ZWE\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bw.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 201580,
@@ -2921,8 +3115,9 @@
     "longitude": 73.5307159,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mv.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 211975,
@@ -2936,8 +3131,9 @@
     "longitude": 10.3725815,
     "borders": "[\"CMR\",\"GAB\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gq.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 213370,
@@ -2951,8 +3147,9 @@
     "longitude": 120.8974915,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tw.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 213955,
@@ -2966,8 +3163,9 @@
     "longitude": 103.8205338,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sg.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 360931,
@@ -2981,8 +3179,9 @@
     "longitude": 57.5893784,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mu.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 364678,
@@ -2996,8 +3195,9 @@
     "longitude": 43.4326401,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/km.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 380155,
@@ -3011,8 +3211,9 @@
     "longitude": -61.3394585,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/dm.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 390940,
@@ -3026,8 +3227,9 @@
     "longitude": -4.5621333,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/im.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 453172,
@@ -3041,8 +3243,9 @@
     "longitude": 113.5603409,
     "borders": "[\"CHN\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mo.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 482134,
@@ -3056,8 +3259,9 @@
     "longitude": 28.2466125,
     "borders": "[\"ZAF\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ls.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 705616,
@@ -3071,8 +3275,9 @@
     "longitude": -71.7151489,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tc.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 862868,
@@ -3086,8 +3291,9 @@
     "longitude": 83.9441605,
     "borders": "[\"CHN\",\"IND\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/np.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 866998,
@@ -3101,8 +3307,9 @@
     "longitude": 178.1472626,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/fj.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 867004,
@@ -3116,8 +3323,9 @@
     "longitude": 160.0193024,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sb.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 867012,
@@ -3131,8 +3339,9 @@
     "longitude": 167.5625000,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/vu.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 867334,
@@ -3146,8 +3355,9 @@
     "longitude": -172.3220215,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ws.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 867648,
@@ -3161,8 +3371,9 @@
     "longitude": -159.7405548,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ck.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 868876,
@@ -3176,8 +3387,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 869895,
@@ -3191,8 +3403,9 @@
     "longitude": 104.1529388,
     "borders": "[\"MMR\",\"KHM\",\"CHN\",\"THA\",\"VNM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/la.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 870092,
@@ -3206,8 +3419,9 @@
     "longitude": -63.0473518,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/ai.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 870933,
@@ -3221,8 +3435,9 @@
     "longitude": 96.5218201,
     "borders": "[\"BGD\",\"CHN\",\"IND\",\"LAO\",\"THA\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mm.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 908783,
@@ -3236,8 +3451,9 @@
     "longitude": 42.6318283,
     "borders": "[\"ERI\",\"ETH\",\"SOM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/dj.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 908860,
@@ -3251,8 +3467,9 @@
     "longitude": 55.4716606,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/sc.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 909440,
@@ -3266,8 +3483,9 @@
     "longitude": 104.8139114,
     "borders": "[\"LAO\",\"THA\",\"VNM\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/kh.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 909526,
@@ -3281,8 +3499,9 @@
     "longitude": 103.0668945,
     "borders": "[\"CHN\",\"RUS\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/mn.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 909582,
@@ -3296,8 +3515,9 @@
     "longitude": -170.7403564,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/as.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 909585,
@@ -3311,8 +3531,9 @@
     "longitude": -175.2506714,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/to.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 910036,
@@ -3326,8 +3547,9 @@
     "longitude": 144.7397156,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gu.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 911987,
@@ -3341,8 +3563,9 @@
     "longitude": 90.4347610,
     "borders": "[\"CHN\",\"IND\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bt.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 913469,
@@ -3356,8 +3579,9 @@
     "longitude": 114.7481842,
     "borders": "[\"MYS\"]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/bn.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1442002,
@@ -3371,8 +3595,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 1884978,
@@ -3386,8 +3611,9 @@
     "longitude": -2.1999686,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/gg.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 3499960,
@@ -3401,8 +3627,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 11240938,
@@ -3416,8 +3643,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 11555657,
@@ -3431,8 +3659,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 12444275,
@@ -3446,8 +3675,9 @@
     "longitude": -169.8302460,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/nu.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 15629849,
@@ -3461,8 +3691,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 24143344,
@@ -3476,8 +3707,9 @@
     "longitude": -85.6023640,
     "borders": "[]",
     "image_path": null,
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 24150873,
@@ -3491,8 +3723,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/wi.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 34319255,
@@ -3506,8 +3739,9 @@
     "longitude": null,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/fk.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 37176064,
@@ -3521,8 +3755,9 @@
     "longitude": 178.6740265,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/tv.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   },
   {
     "id": 37200394,
@@ -3536,7 +3771,8 @@
     "longitude": null,
     "borders": "[]",
     "image_path": "https://cdn.sportmonks.com/images/countries/png/short/kg.png",
-    "created_at": "2026-03-24 00:21:03",
-    "updated_at": "2026-03-24 00:21:03"
+    "deleted_at": null,
+    "created_at": "2026-03-25 02:37:58",
+    "updated_at": "2026-03-25 02:37:58"
   }
 ]

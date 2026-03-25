@@ -2,22 +2,21 @@
 
 namespace App\Filament\Resources\Types;
 
+use App\Filament\Clusters\System\SystemCluster;
 use App\Filament\Resources\Types\Pages\ListTypes;
 use App\Filament\Resources\Types\Tables\TypesTable;
+use App\Filament\Traits\HasSoftDeletes;
 use App\Models\Type;
-use BackedEnum;
 use Filament\Resources\Resource;
-use Filament\Support\Icons\Heroicon;
 use Filament\Tables\Table;
-use UnitEnum;
 
 class TypeResource extends Resource
 {
+    use HasSoftDeletes;
+
     protected static ?string $model = Type::class;
 
-    protected static string|BackedEnum|null $navigationIcon = Heroicon::OutlinedRectangleStack;
-
-    protected static string|UnitEnum|null $navigationGroup = 'Other';
+    protected static ?string $cluster = SystemCluster::class;
 
     protected static ?string $recordTitleAttribute = 'name';
 

@@ -9,10 +9,11 @@ class ContinentSeeder extends Seeder
 {
     public function run(): void
     {
-        Continent::factory()->create([
-            'id' => 1,
-            'name' => 'Europe',
-            'code' => 'EU',
-        ]);
+        $data = json_decode(
+            file_get_contents(storage_path('seed-data/continents.json')),
+            associative: true,
+        );
+
+        Continent::query()->upsert($data, ['id']);
     }
 }

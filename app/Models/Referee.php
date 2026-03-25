@@ -2,33 +2,17 @@
 
 namespace App\Models;
 
-use Database\Factories\RefereeFactory;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Traits\HasCity;
+use App\Models\Traits\HasCountry;
+use App\Models\Traits\HasSport;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Referee extends Model
 {
-    /** @use HasFactory<RefereeFactory> */
-    use HasFactory;
+    use HasCity, HasCountry, HasSport, SoftDeletes;
 
     protected $casts = [
         'date_of_birth' => 'date',
     ];
-
-    /**
-     * @return BelongsTo<Country, $this>
-     */
-    public function country(): BelongsTo
-    {
-        return $this->belongsTo(Country::class);
-    }
-
-    /**
-     * @return BelongsTo<City, $this>
-     */
-    public function city(): BelongsTo
-    {
-        return $this->belongsTo(City::class);
-    }
 }

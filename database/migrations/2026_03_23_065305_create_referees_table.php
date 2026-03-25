@@ -26,6 +26,7 @@ return new class extends Migration
             $table->unsignedInteger('weight')->nullable();
             $table->date('date_of_birth')->nullable();
             $table->string('gender')->nullable();
+            $table->softDeletes();
             $table->timestamps();
         });
     }

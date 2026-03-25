@@ -1,14 +1,13 @@
 <?php
 
-namespace App\Filament\Resources\Continents\Tables;
+namespace App\Filament\Resources\Regions\Tables;
 
 use App\Filament\Tables\Columns\IdColumn;
 use App\Filament\Tables\Columns\NameColumn;
 use App\Filament\Tables\Columns\TimeStampColumns;
-use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Table;
 
-class ContinentsTable
+class RegionsTable
 {
     public static function configure(Table $table): Table
     {
@@ -16,7 +15,6 @@ class ContinentsTable
             ->columns([
                 IdColumn::make(),
                 NameColumn::make(),
-                TextColumn::make('code'),
                 ...TimeStampColumns::make(),
             ]);
     }

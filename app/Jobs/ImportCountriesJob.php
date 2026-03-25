@@ -2,7 +2,7 @@
 
 namespace App\Jobs;
 
-use App\Models\Continent;
+use App\Models\Country;
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
@@ -10,7 +10,7 @@ use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Queue\SerializesModels;
 use PyaeSoneAung\SportmonksFootballApi\Facades\SportmonksFootballApi;
 
-class ImportContinentsJob implements ShouldQueue
+class ImportCountriesJob implements ShouldQueue
 {
     use Dispatchable, InteractsWithQueue, Queueable, SerializesModels;
 
@@ -19,7 +19,7 @@ class ImportContinentsJob implements ShouldQueue
         $page = 1;
 
         do {
-            $response = SportmonksFootballApi::continent()
+            $response = SportmonksFootballApi::country()
                 ->setPerPage(50)
                 ->setPage($page)
                 ->all();
@@ -27,7 +27,7 @@ class ImportContinentsJob implements ShouldQueue
             $items = $response->collect('data');
 
             foreach ($items as $item) {
-                Continent::updateOrCreate(
+                Country::updateOrCreate(
                     ['id' => $item['id']],
                     $item,
                 );

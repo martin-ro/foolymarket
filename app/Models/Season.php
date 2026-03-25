@@ -2,15 +2,13 @@
 
 namespace App\Models;
 
-use Database\Factories\SeasonFactory;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Season extends Model
 {
-    /** @use HasFactory<SeasonFactory> */
-    use HasFactory;
+    use SoftDeletes;
 
     protected $casts = [
         'finished' => 'boolean',

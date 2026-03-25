@@ -2,15 +2,16 @@
 
 namespace App\Models;
 
-use Database\Factories\PlayerFactory;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Traits\HasCity;
+use App\Models\Traits\HasCountry;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Player extends Model
 {
-    /** @use HasFactory<PlayerFactory> */
-    use HasFactory;
+    use HasCity, HasCountry, SoftDeletes;
 
     protected $casts = [
         'date_of_birth' => 'date',
@@ -19,25 +20,9 @@ class Player extends Model
     /**
      * @return BelongsTo<Country, $this>
      */
-    public function country(): BelongsTo
-    {
-        return $this->belongsTo(Country::class);
-    }
-
-    /**
-     * @return BelongsTo<Country, $this>
-     */
     public function nationality(): BelongsTo
     {
         return $this->belongsTo(Country::class, 'nationality_id');
-    }
-
-    /**
-     * @return BelongsTo<City, $this>
-     */
-    public function city(): BelongsTo
-    {
-        return $this->belongsTo(City::class);
     }
 
     /**
@@ -62,5 +47,13 @@ class Player extends Model
     public function type(): BelongsTo
     {
         return $this->belongsTo(Type::class);
+    }
+
+    /**
+     * @return HasMany<TeamSquad, $this>
+     */
+    public function teamSquads(): HasMany
+    {
+        return $this->hasMany(TeamSquad::class);
     }
 }

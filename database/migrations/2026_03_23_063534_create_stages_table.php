@@ -1,5 +1,7 @@
 <?php
 
+use App\Models\League;
+use App\Models\Season;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
@@ -10,9 +12,9 @@ return new class extends Migration
     {
         Schema::create('stages', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('sport_id');
-            $table->foreignId('league_id')->constrained();
-            $table->foreignId('season_id')->constrained();
+            $table->foreignIdFor(Sport::class)->constrained()->cascadeOnDelete();
+            $table->foreignIdFor(League::class)->constrained()->cascadeOnDelete();
+            $table->foreignIdFor(Season::class)->constrained()->cascadeOnDelete();
             $table->foreignId('type_id')->constrained('types');
             $table->string('name');
             $table->unsignedSmallInteger('sort_order')->default(0);

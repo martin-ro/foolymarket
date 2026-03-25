@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Redis;
 
 class HorizonClearCommand extends Command
 {
-    protected $signature = 'horizon:clear';
+    protected $signature = 'horizon:clear-all';
 
     public function handle(): void
     {

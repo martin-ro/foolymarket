@@ -5,6 +5,7 @@ namespace App\Filament\Resources\Cities\Tables;
 use App\Filament\Tables\Columns\IdColumn;
 use App\Filament\Tables\Columns\NameColumn;
 use App\Filament\Tables\Columns\TimeStampColumns;
+use App\Filament\Tables\Filters\CountryFilter;
 use Filament\Tables\Table;
 
 class CitiesTable
@@ -17,6 +18,9 @@ class CitiesTable
                 NameColumn::make(),
                 NameColumn::make('country.name'),
                 ...TimeStampColumns::make(),
+            ])
+            ->filters([
+                CountryFilter::make(),
             ]);
     }
 }

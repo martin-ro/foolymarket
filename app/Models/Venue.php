@@ -2,33 +2,16 @@
 
 namespace App\Models;
 
-use Database\Factories\VenueFactory;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Traits\HasCity;
+use App\Models\Traits\HasCountry;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Venue extends Model
 {
-    /** @use HasFactory<VenueFactory> */
-    use HasFactory;
+    use HasCity, HasCountry, SoftDeletes;
 
     protected $casts = [
         'national_team' => 'boolean',
     ];
-
-    /**
-     * @return BelongsTo<Country, $this>
-     */
-    public function country(): BelongsTo
-    {
-        return $this->belongsTo(Country::class);
-    }
-
-    /**
-     * @return BelongsTo<City, $this>
-     */
-    public function city(): BelongsTo
-    {
-        return $this->belongsTo(City::class);
-    }
 }

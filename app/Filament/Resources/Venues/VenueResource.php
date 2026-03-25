@@ -5,6 +5,7 @@ namespace App\Filament\Resources\Venues;
 use App\Filament\Clusters\Locations\LocationsCluster;
 use App\Filament\Resources\Venues\Pages\ListVenues;
 use App\Filament\Resources\Venues\Tables\VenuesTable;
+use App\Filament\Traits\HasSoftDeletes;
 use App\Models\Venue;
 use BackedEnum;
 use Daljo25\FilamentTablerIcons\Enums\TablerIcon;
@@ -13,6 +14,8 @@ use Filament\Tables\Table;
 
 class VenueResource extends Resource
 {
+    use HasSoftDeletes;
+
     protected static ?string $model = Venue::class;
 
     protected static ?string $cluster = LocationsCluster::class;

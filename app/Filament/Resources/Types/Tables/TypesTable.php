@@ -2,13 +2,10 @@
 
 namespace App\Filament\Resources\Types\Tables;
 
-use Filament\Actions\BulkActionGroup;
-use Filament\Actions\DeleteBulkAction;
-use Filament\Actions\EditAction;
-use Filament\Actions\ForceDeleteBulkAction;
-use Filament\Actions\RestoreBulkAction;
+use App\Filament\Tables\Columns\IdColumn;
+use App\Filament\Tables\Columns\NameColumn;
+use App\Filament\Tables\Columns\TimeStampColumns;
 use Filament\Tables\Columns\TextColumn;
-use Filament\Tables\Filters\TrashedFilter;
 use Filament\Tables\Table;
 
 class TypesTable
@@ -17,30 +14,13 @@ class TypesTable
     {
         return $table
             ->columns([
-                TextColumn::make('id')
-                    ->searchable(),
-                TextColumn::make('name')
-                    ->searchable(),
-                TextColumn::make('code')
-                    ->searchable(),
-                TextColumn::make('developer_name')
-                    ->searchable(),
-                TextColumn::make('model_type')
-                    ->searchable(),
-                TextColumn::make('stat_group')
-                    ->searchable(),
-                TextColumn::make('deleted_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('created_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('updated_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
+                IdColumn::make(),
+                NameColumn::make(),
+                TextColumn::make('code'),
+                TextColumn::make('developer_name'),
+                TextColumn::make('model_type'),
+                TextColumn::make('stat_group'),
+                ...TimeStampColumns::make(),
             ]);
     }
 }

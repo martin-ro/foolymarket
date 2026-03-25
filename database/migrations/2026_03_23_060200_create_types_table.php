@@ -15,6 +15,7 @@ return new class extends Migration
             $table->string('developer_name');
             $table->string('model_type');
             $table->string('stat_group')->nullable();
+            $table->softDeletes();
             $table->timestamps();
         });
     }

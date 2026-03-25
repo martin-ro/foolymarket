@@ -53,11 +53,11 @@ class AppPanelProvider extends PanelProvider
                 NavigationGroup::make('Matches'),
                 NavigationGroup::make('Data'),
                 NavigationGroup::make('Other'),
-                NavigationGroup::make('System'),
+                NavigationGroup::make('Admin'),
             ])
             ->navigationItems([
                 NavigationItem::make('Horizon')
-                    ->group('System')
+                    ->group('Admin')
                     ->url(url: config('app.url').'/horizon', shouldOpenInNewTab: true)
                     ->icon(TablerIcon::DatabaseImport),
             ])
@@ -78,7 +78,7 @@ class AppPanelProvider extends PanelProvider
                     ->switchable(false),
 
                 FilamentLogViewer::make()
-                    ->navigationGroup('System'),
+                    ->navigationGroup('Admin'),
             ])
             ->bootUsing(function (): void {
                 Table::configureUsing(fn (Table $table): Table => $table->striped());

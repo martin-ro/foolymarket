@@ -1,0 +1,1667 @@
+[
+  {
+    "id": 18,
+    "sport_id": 1,
+    "team_id": 5,
+    "rival_id": 52,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:26",
+    "updated_at": "2026-03-25 06:12:26"
+  },
+  {
+    "id": 30,
+    "sport_id": 1,
+    "team_id": 430,
+    "rival_id": 524,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:26",
+    "updated_at": "2026-03-25 06:12:26"
+  },
+  {
+    "id": 31,
+    "sport_id": 1,
+    "team_id": 702,
+    "rival_id": 524,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:26",
+    "updated_at": "2026-03-25 06:12:26"
+  },
+  {
+    "id": 61,
+    "sport_id": 1,
+    "team_id": 931,
+    "rival_id": 618,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:26",
+    "updated_at": "2026-03-25 06:12:26"
+  },
+  {
+    "id": 73,
+    "sport_id": 1,
+    "team_id": 7758,
+    "rival_id": 776,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:26",
+    "updated_at": "2026-03-25 06:12:26"
+  },
+  {
+    "id": 108,
+    "sport_id": 1,
+    "team_id": 18,
+    "rival_id": 19,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 109,
+    "sport_id": 1,
+    "team_id": 14,
+    "rival_id": 19,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 114,
+    "sport_id": 1,
+    "team_id": 12,
+    "rival_id": 15,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 115,
+    "sport_id": 1,
+    "team_id": 10,
+    "rival_id": 15,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 116,
+    "sport_id": 1,
+    "team_id": 29,
+    "rival_id": 15,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 117,
+    "sport_id": 1,
+    "team_id": 10729,
+    "rival_id": 708,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 119,
+    "sport_id": 1,
+    "team_id": 3468,
+    "rival_id": 13258,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 120,
+    "sport_id": 1,
+    "team_id": 2975,
+    "rival_id": 13258,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 122,
+    "sport_id": 1,
+    "team_id": 3468,
+    "rival_id": 7980,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 123,
+    "sport_id": 1,
+    "team_id": 83,
+    "rival_id": 7980,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:27",
+    "updated_at": "2026-03-25 06:12:27"
+  },
+  {
+    "id": 155,
+    "sport_id": 1,
+    "team_id": 528,
+    "rival_id": 83,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:28",
+    "updated_at": "2026-03-25 06:12:28"
+  },
+  {
+    "id": 172,
+    "sport_id": 1,
+    "team_id": 3320,
+    "rival_id": 3321,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:28",
+    "updated_at": "2026-03-25 06:12:28"
+  },
+  {
+    "id": 173,
+    "sport_id": 1,
+    "team_id": 68,
+    "rival_id": 503,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:28",
+    "updated_at": "2026-03-25 06:12:28"
+  },
+  {
+    "id": 177,
+    "sport_id": 1,
+    "team_id": 956,
+    "rival_id": 503,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:28",
+    "updated_at": "2026-03-25 06:12:28"
+  },
+  {
+    "id": 187,
+    "sport_id": 1,
+    "team_id": 89,
+    "rival_id": 563,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 199,
+    "sport_id": 1,
+    "team_id": 10,
+    "rival_id": 12,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 200,
+    "sport_id": 1,
+    "team_id": 117,
+    "rival_id": 12,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 203,
+    "sport_id": 1,
+    "team_id": 16,
+    "rival_id": 27,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 206,
+    "sport_id": 1,
+    "team_id": 17,
+    "rival_id": 2,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 207,
+    "sport_id": 1,
+    "team_id": 16,
+    "rival_id": 2,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 209,
+    "sport_id": 1,
+    "team_id": 59,
+    "rival_id": 3562,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 215,
+    "sport_id": 1,
+    "team_id": 2,
+    "rival_id": 28,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 217,
+    "sport_id": 1,
+    "team_id": 429,
+    "rival_id": 36,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 223,
+    "sport_id": 1,
+    "team_id": 16,
+    "rival_id": 28,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 224,
+    "sport_id": 1,
+    "team_id": 27,
+    "rival_id": 28,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 240,
+    "sport_id": 1,
+    "team_id": 17,
+    "rival_id": 27,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 244,
+    "sport_id": 1,
+    "team_id": 109,
+    "rival_id": 8513,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 245,
+    "sport_id": 1,
+    "team_id": 398,
+    "rival_id": 8513,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 246,
+    "sport_id": 1,
+    "team_id": 17,
+    "rival_id": 16,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 250,
+    "sport_id": 1,
+    "team_id": 1055,
+    "rival_id": 1393,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:29",
+    "updated_at": "2026-03-25 06:12:29"
+  },
+  {
+    "id": 254,
+    "sport_id": 1,
+    "team_id": 289,
+    "rival_id": 3562,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 256,
+    "sport_id": 1,
+    "team_id": 67,
+    "rival_id": 68,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 257,
+    "sport_id": 1,
+    "team_id": 3320,
+    "rival_id": 683,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 261,
+    "sport_id": 1,
+    "team_id": 68,
+    "rival_id": 683,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 262,
+    "sport_id": 1,
+    "team_id": 1092,
+    "rival_id": 683,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 263,
+    "sport_id": 1,
+    "team_id": 3321,
+    "rival_id": 683,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 283,
+    "sport_id": 1,
+    "team_id": 11,
+    "rival_id": 236,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 287,
+    "sport_id": 1,
+    "team_id": 47,
+    "rival_id": 236,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 288,
+    "sport_id": 1,
+    "team_id": 23,
+    "rival_id": 236,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 290,
+    "sport_id": 1,
+    "team_id": 10722,
+    "rival_id": 10729,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 293,
+    "sport_id": 1,
+    "team_id": 1123,
+    "rival_id": 10729,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 294,
+    "sport_id": 1,
+    "team_id": 598,
+    "rival_id": 266,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 295,
+    "sport_id": 1,
+    "team_id": 2919,
+    "rival_id": 266,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 296,
+    "sport_id": 1,
+    "team_id": 51,
+    "rival_id": 78,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 297,
+    "sport_id": 1,
+    "team_id": 2,
+    "rival_id": 27,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 299,
+    "sport_id": 1,
+    "team_id": 65,
+    "rival_id": 78,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 300,
+    "sport_id": 1,
+    "team_id": 5,
+    "rival_id": 78,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 302,
+    "sport_id": 1,
+    "team_id": 52,
+    "rival_id": 78,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 321,
+    "sport_id": 1,
+    "team_id": 8269,
+    "rival_id": 6827,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 322,
+    "sport_id": 1,
+    "team_id": 598,
+    "rival_id": 1393,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 324,
+    "sport_id": 1,
+    "team_id": 1216,
+    "rival_id": 585,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 325,
+    "sport_id": 1,
+    "team_id": 597,
+    "rival_id": 585,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:30",
+    "updated_at": "2026-03-25 06:12:30"
+  },
+  {
+    "id": 328,
+    "sport_id": 1,
+    "team_id": 30,
+    "rival_id": 69,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:31",
+    "updated_at": "2026-03-25 06:12:31"
+  },
+  {
+    "id": 347,
+    "sport_id": 1,
+    "team_id": 11,
+    "rival_id": 18,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:31",
+    "updated_at": "2026-03-25 06:12:31"
+  },
+  {
+    "id": 354,
+    "sport_id": 1,
+    "team_id": 1174,
+    "rival_id": 6898,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:31",
+    "updated_at": "2026-03-25 06:12:31"
+  },
+  {
+    "id": 363,
+    "sport_id": 1,
+    "team_id": 8271,
+    "rival_id": 89,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:31",
+    "updated_at": "2026-03-25 06:12:31"
+  },
+  {
+    "id": 368,
+    "sport_id": 1,
+    "team_id": 1628,
+    "rival_id": 268,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:31",
+    "updated_at": "2026-03-25 06:12:31"
+  },
+  {
+    "id": 388,
+    "sport_id": 1,
+    "team_id": 4,
+    "rival_id": 51,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:32",
+    "updated_at": "2026-03-25 06:12:32"
+  },
+  {
+    "id": 413,
+    "sport_id": 1,
+    "team_id": 594,
+    "rival_id": 2975,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:32",
+    "updated_at": "2026-03-25 06:12:32"
+  },
+  {
+    "id": 425,
+    "sport_id": 1,
+    "team_id": 63,
+    "rival_id": 24,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:32",
+    "updated_at": "2026-03-25 06:12:32"
+  },
+  {
+    "id": 429,
+    "sport_id": 1,
+    "team_id": 3682,
+    "rival_id": 6842,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:32",
+    "updated_at": "2026-03-25 06:12:32"
+  },
+  {
+    "id": 476,
+    "sport_id": 1,
+    "team_id": 794,
+    "rival_id": 366,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:33",
+    "updated_at": "2026-03-25 06:12:33"
+  },
+  {
+    "id": 479,
+    "sport_id": 1,
+    "team_id": 6620,
+    "rival_id": 1099,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:33",
+    "updated_at": "2026-03-25 06:12:33"
+  },
+  {
+    "id": 480,
+    "sport_id": 1,
+    "team_id": 7258,
+    "rival_id": 1099,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:33",
+    "updated_at": "2026-03-25 06:12:33"
+  },
+  {
+    "id": 485,
+    "sport_id": 1,
+    "team_id": 109,
+    "rival_id": 397,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:33",
+    "updated_at": "2026-03-25 06:12:33"
+  },
+  {
+    "id": 486,
+    "sport_id": 1,
+    "team_id": 3691,
+    "rival_id": 397,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:33",
+    "updated_at": "2026-03-25 06:12:33"
+  },
+  {
+    "id": 558,
+    "sport_id": 1,
+    "team_id": 63,
+    "rival_id": 42,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:34",
+    "updated_at": "2026-03-25 06:12:34"
+  },
+  {
+    "id": 566,
+    "sport_id": 1,
+    "team_id": 598,
+    "rival_id": 59,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:34",
+    "updated_at": "2026-03-25 06:12:34"
+  },
+  {
+    "id": 567,
+    "sport_id": 1,
+    "team_id": 37,
+    "rival_id": 597,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:34",
+    "updated_at": "2026-03-25 06:12:34"
+  },
+  {
+    "id": 575,
+    "sport_id": 1,
+    "team_id": 591,
+    "rival_id": 4508,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:34",
+    "updated_at": "2026-03-25 06:12:34"
+  },
+  {
+    "id": 578,
+    "sport_id": 1,
+    "team_id": 344,
+    "rival_id": 93,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:35",
+    "updated_at": "2026-03-25 06:12:35"
+  },
+  {
+    "id": 579,
+    "sport_id": 1,
+    "team_id": 946,
+    "rival_id": 361,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:35",
+    "updated_at": "2026-03-25 06:12:35"
+  },
+  {
+    "id": 583,
+    "sport_id": 1,
+    "team_id": 485,
+    "rival_id": 676,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:35",
+    "updated_at": "2026-03-25 06:12:35"
+  },
+  {
+    "id": 597,
+    "sport_id": 1,
+    "team_id": 267,
+    "rival_id": 346,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:35",
+    "updated_at": "2026-03-25 06:12:35"
+  },
+  {
+    "id": 604,
+    "sport_id": 1,
+    "team_id": 1638,
+    "rival_id": 3114,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:35",
+    "updated_at": "2026-03-25 06:12:35"
+  },
+  {
+    "id": 609,
+    "sport_id": 1,
+    "team_id": 137,
+    "rival_id": 71,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:35",
+    "updated_at": "2026-03-25 06:12:35"
+  },
+  {
+    "id": 618,
+    "sport_id": 1,
+    "team_id": 591,
+    "rival_id": 44,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:35",
+    "updated_at": "2026-03-25 06:12:35"
+  },
+  {
+    "id": 624,
+    "sport_id": 1,
+    "team_id": 2919,
+    "rival_id": 598,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:35",
+    "updated_at": "2026-03-25 06:12:35"
+  },
+  {
+    "id": 630,
+    "sport_id": 1,
+    "team_id": 2975,
+    "rival_id": 60,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 632,
+    "sport_id": 1,
+    "team_id": 24,
+    "rival_id": 42,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 637,
+    "sport_id": 1,
+    "team_id": 13,
+    "rival_id": 8,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 651,
+    "sport_id": 1,
+    "team_id": 7,
+    "rival_id": 20,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 657,
+    "sport_id": 1,
+    "team_id": 13258,
+    "rival_id": 60,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 664,
+    "sport_id": 1,
+    "team_id": 19,
+    "rival_id": 6,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 668,
+    "sport_id": 1,
+    "team_id": 117,
+    "rival_id": 29,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 675,
+    "sport_id": 1,
+    "team_id": 3691,
+    "rival_id": 109,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 678,
+    "sport_id": 1,
+    "team_id": 47,
+    "rival_id": 11,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 681,
+    "sport_id": 1,
+    "team_id": 3565,
+    "rival_id": 2554,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 684,
+    "sport_id": 1,
+    "team_id": 90,
+    "rival_id": 573,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 690,
+    "sport_id": 1,
+    "team_id": 1638,
+    "rival_id": 794,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:36",
+    "updated_at": "2026-03-25 06:12:36"
+  },
+  {
+    "id": 711,
+    "sport_id": 1,
+    "team_id": 625,
+    "rival_id": 109,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:37",
+    "updated_at": "2026-03-25 06:12:37"
+  },
+  {
+    "id": 736,
+    "sport_id": 1,
+    "team_id": 459,
+    "rival_id": 3968,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:37",
+    "updated_at": "2026-03-25 06:12:37"
+  },
+  {
+    "id": 745,
+    "sport_id": 1,
+    "team_id": 3319,
+    "rival_id": 3543,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:37",
+    "updated_at": "2026-03-25 06:12:37"
+  },
+  {
+    "id": 747,
+    "sport_id": 1,
+    "team_id": 8249,
+    "rival_id": 231,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:37",
+    "updated_at": "2026-03-25 06:12:37"
+  },
+  {
+    "id": 768,
+    "sport_id": 1,
+    "team_id": 3431,
+    "rival_id": 956,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:37",
+    "updated_at": "2026-03-25 06:12:37"
+  },
+  {
+    "id": 773,
+    "sport_id": 1,
+    "team_id": 106,
+    "rival_id": 377,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:37",
+    "updated_at": "2026-03-25 06:12:37"
+  },
+  {
+    "id": 778,
+    "sport_id": 1,
+    "team_id": 503,
+    "rival_id": 67,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:37",
+    "updated_at": "2026-03-25 06:12:37"
+  },
+  {
+    "id": 803,
+    "sport_id": 1,
+    "team_id": 10,
+    "rival_id": 29,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:38",
+    "updated_at": "2026-03-25 06:12:38"
+  },
+  {
+    "id": 813,
+    "sport_id": 1,
+    "team_id": 3,
+    "rival_id": 7,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:38",
+    "updated_at": "2026-03-25 06:12:38"
+  },
+  {
+    "id": 818,
+    "sport_id": 1,
+    "team_id": 844,
+    "rival_id": 106,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:38",
+    "updated_at": "2026-03-25 06:12:38"
+  },
+  {
+    "id": 823,
+    "sport_id": 1,
+    "team_id": 3968,
+    "rival_id": 274,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:38",
+    "updated_at": "2026-03-25 06:12:38"
+  },
+  {
+    "id": 828,
+    "sport_id": 1,
+    "team_id": 613,
+    "rival_id": 625,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:38",
+    "updated_at": "2026-03-25 06:12:38"
+  },
+  {
+    "id": 833,
+    "sport_id": 1,
+    "team_id": 83,
+    "rival_id": 3468,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:39",
+    "updated_at": "2026-03-25 06:12:39"
+  },
+  {
+    "id": 848,
+    "sport_id": 1,
+    "team_id": 251,
+    "rival_id": 71,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:39",
+    "updated_at": "2026-03-25 06:12:39"
+  },
+  {
+    "id": 851,
+    "sport_id": 1,
+    "team_id": 591,
+    "rival_id": 79,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:39",
+    "updated_at": "2026-03-25 06:12:39"
+  },
+  {
+    "id": 867,
+    "sport_id": 1,
+    "team_id": 5,
+    "rival_id": 65,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:39",
+    "updated_at": "2026-03-25 06:12:39"
+  },
+  {
+    "id": 882,
+    "sport_id": 1,
+    "team_id": 353,
+    "rival_id": 3611,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:39",
+    "updated_at": "2026-03-25 06:12:39"
+  },
+  {
+    "id": 885,
+    "sport_id": 1,
+    "team_id": 37,
+    "rival_id": 625,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:39",
+    "updated_at": "2026-03-25 06:12:39"
+  },
+  {
+    "id": 886,
+    "sport_id": 1,
+    "team_id": 597,
+    "rival_id": 625,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:39",
+    "updated_at": "2026-03-25 06:12:39"
+  },
+  {
+    "id": 889,
+    "sport_id": 1,
+    "team_id": 37,
+    "rival_id": 43,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:39",
+    "updated_at": "2026-03-25 06:12:39"
+  },
+  {
+    "id": 890,
+    "sport_id": 1,
+    "team_id": 21,
+    "rival_id": 71,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:39",
+    "updated_at": "2026-03-25 06:12:39"
+  },
+  {
+    "id": 905,
+    "sport_id": 1,
+    "team_id": 116,
+    "rival_id": 33,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:40",
+    "updated_at": "2026-03-25 06:12:40"
+  },
+  {
+    "id": 908,
+    "sport_id": 1,
+    "team_id": 2975,
+    "rival_id": 459,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:40",
+    "updated_at": "2026-03-25 06:12:40"
+  },
+  {
+    "id": 914,
+    "sport_id": 1,
+    "team_id": 10714,
+    "rival_id": 1072,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:40",
+    "updated_at": "2026-03-25 06:12:40"
+  },
+  {
+    "id": 945,
+    "sport_id": 1,
+    "team_id": 6967,
+    "rival_id": 581,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:40",
+    "updated_at": "2026-03-25 06:12:40"
+  },
+  {
+    "id": 946,
+    "sport_id": 1,
+    "team_id": 44,
+    "rival_id": 581,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:40",
+    "updated_at": "2026-03-25 06:12:40"
+  },
+  {
+    "id": 974,
+    "sport_id": 1,
+    "team_id": 12,
+    "rival_id": 29,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:40",
+    "updated_at": "2026-03-25 06:12:40"
+  },
+  {
+    "id": 978,
+    "sport_id": 1,
+    "team_id": 3114,
+    "rival_id": 3543,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:40",
+    "updated_at": "2026-03-25 06:12:40"
+  },
+  {
+    "id": 980,
+    "sport_id": 1,
+    "team_id": 522,
+    "rival_id": 102,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:41",
+    "updated_at": "2026-03-25 06:12:41"
+  },
+  {
+    "id": 987,
+    "sport_id": 1,
+    "team_id": 97,
+    "rival_id": 1123,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:41",
+    "updated_at": "2026-03-25 06:12:41"
+  },
+  {
+    "id": 994,
+    "sport_id": 1,
+    "team_id": 1216,
+    "rival_id": 597,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:41",
+    "updated_at": "2026-03-25 06:12:41"
+  },
+  {
+    "id": 995,
+    "sport_id": 1,
+    "team_id": 7743,
+    "rival_id": 597,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:41",
+    "updated_at": "2026-03-25 06:12:41"
+  },
+  {
+    "id": 997,
+    "sport_id": 1,
+    "team_id": 430,
+    "rival_id": 450,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:41",
+    "updated_at": "2026-03-25 06:12:41"
+  },
+  {
+    "id": 1007,
+    "sport_id": 1,
+    "team_id": 109,
+    "rival_id": 1072,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:41",
+    "updated_at": "2026-03-25 06:12:41"
+  },
+  {
+    "id": 1015,
+    "sport_id": 1,
+    "team_id": 946,
+    "rival_id": 3968,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:41",
+    "updated_at": "2026-03-25 06:12:41"
+  },
+  {
+    "id": 1020,
+    "sport_id": 1,
+    "team_id": 3114,
+    "rival_id": 3319,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:41",
+    "updated_at": "2026-03-25 06:12:41"
+  },
+  {
+    "id": 1024,
+    "sport_id": 1,
+    "team_id": 3468,
+    "rival_id": 214,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:41",
+    "updated_at": "2026-03-25 06:12:41"
+  },
+  {
+    "id": 1031,
+    "sport_id": 1,
+    "team_id": 43,
+    "rival_id": 4070,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1036,
+    "sport_id": 1,
+    "team_id": 3317,
+    "rival_id": 575,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1048,
+    "sport_id": 1,
+    "team_id": 1092,
+    "rival_id": 3320,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1050,
+    "sport_id": 1,
+    "team_id": 1012,
+    "rival_id": 2921,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1051,
+    "sport_id": 1,
+    "team_id": 271,
+    "rival_id": 1055,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1054,
+    "sport_id": 1,
+    "team_id": 598,
+    "rival_id": 9257,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1056,
+    "sport_id": 1,
+    "team_id": 9,
+    "rival_id": 14,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1057,
+    "sport_id": 1,
+    "team_id": 71,
+    "rival_id": 14,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1060,
+    "sport_id": 1,
+    "team_id": 63,
+    "rival_id": 21,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1068,
+    "sport_id": 1,
+    "team_id": 18,
+    "rival_id": 6,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1072,
+    "sport_id": 1,
+    "team_id": 23,
+    "rival_id": 25,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1074,
+    "sport_id": 1,
+    "team_id": 2708,
+    "rival_id": 82,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1076,
+    "sport_id": 1,
+    "team_id": 2554,
+    "rival_id": 510,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1081,
+    "sport_id": 1,
+    "team_id": 37,
+    "rival_id": 4070,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1085,
+    "sport_id": 1,
+    "team_id": 126,
+    "rival_id": 103,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1092,
+    "sport_id": 1,
+    "team_id": 267,
+    "rival_id": 1123,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1095,
+    "sport_id": 1,
+    "team_id": 137,
+    "rival_id": 251,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:42",
+    "updated_at": "2026-03-25 06:12:42"
+  },
+  {
+    "id": 1107,
+    "sport_id": 1,
+    "team_id": 445,
+    "rival_id": 7790,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1110,
+    "sport_id": 1,
+    "team_id": 690,
+    "rival_id": 271,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1111,
+    "sport_id": 1,
+    "team_id": 6819,
+    "rival_id": 690,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1116,
+    "sport_id": 1,
+    "team_id": 686,
+    "rival_id": 3513,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1132,
+    "sport_id": 1,
+    "team_id": 8271,
+    "rival_id": 398,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1138,
+    "sport_id": 1,
+    "team_id": 522,
+    "rival_id": 1072,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1149,
+    "sport_id": 1,
+    "team_id": 594,
+    "rival_id": 60,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1156,
+    "sport_id": 1,
+    "team_id": 8513,
+    "rival_id": 394,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1178,
+    "sport_id": 1,
+    "team_id": 503,
+    "rival_id": 2708,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1180,
+    "sport_id": 1,
+    "team_id": 353,
+    "rival_id": 575,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:43",
+    "updated_at": "2026-03-25 06:12:43"
+  },
+  {
+    "id": 1187,
+    "sport_id": 1,
+    "team_id": 21,
+    "rival_id": 251,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:44",
+    "updated_at": "2026-03-25 06:12:44"
+  },
+  {
+    "id": 1203,
+    "sport_id": 1,
+    "team_id": 3520,
+    "rival_id": 3513,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:44",
+    "updated_at": "2026-03-25 06:12:44"
+  },
+  {
+    "id": 1206,
+    "sport_id": 1,
+    "team_id": 450,
+    "rival_id": 6789,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:44",
+    "updated_at": "2026-03-25 06:12:44"
+  },
+  {
+    "id": 1215,
+    "sport_id": 1,
+    "team_id": 115,
+    "rival_id": 25,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:44",
+    "updated_at": "2026-03-25 06:12:44"
+  },
+  {
+    "id": 1223,
+    "sport_id": 1,
+    "team_id": 485,
+    "rival_id": 103,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:44",
+    "updated_at": "2026-03-25 06:12:44"
+  },
+  {
+    "id": 1246,
+    "sport_id": 1,
+    "team_id": 8,
+    "rival_id": 14,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:44",
+    "updated_at": "2026-03-25 06:12:44"
+  },
+  {
+    "id": 1250,
+    "sport_id": 1,
+    "team_id": 3,
+    "rival_id": 20,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:44",
+    "updated_at": "2026-03-25 06:12:44"
+  },
+  {
+    "id": 1257,
+    "sport_id": 1,
+    "team_id": 3317,
+    "rival_id": 1079,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:45",
+    "updated_at": "2026-03-25 06:12:45"
+  },
+  {
+    "id": 1258,
+    "sport_id": 1,
+    "team_id": 3457,
+    "rival_id": 214,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:45",
+    "updated_at": "2026-03-25 06:12:45"
+  },
+  {
+    "id": 1268,
+    "sport_id": 1,
+    "team_id": 353,
+    "rival_id": 2708,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:45",
+    "updated_at": "2026-03-25 06:12:45"
+  },
+  {
+    "id": 1270,
+    "sport_id": 1,
+    "team_id": 3543,
+    "rival_id": 2726,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:45",
+    "updated_at": "2026-03-25 06:12:45"
+  },
+  {
+    "id": 1278,
+    "sport_id": 1,
+    "team_id": 1461,
+    "rival_id": 690,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:45",
+    "updated_at": "2026-03-25 06:12:45"
+  },
+  {
+    "id": 1296,
+    "sport_id": 1,
+    "team_id": 108,
+    "rival_id": 79,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:45",
+    "updated_at": "2026-03-25 06:12:45"
+  },
+  {
+    "id": 1297,
+    "sport_id": 1,
+    "team_id": 6789,
+    "rival_id": 44,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:45",
+    "updated_at": "2026-03-25 06:12:45"
+  },
+  {
+    "id": 1309,
+    "sport_id": 1,
+    "team_id": 13258,
+    "rival_id": 594,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:46",
+    "updated_at": "2026-03-25 06:12:46"
+  },
+  {
+    "id": 1310,
+    "sport_id": 1,
+    "team_id": 7047,
+    "rival_id": 1028,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:46",
+    "updated_at": "2026-03-25 06:12:46"
+  },
+  {
+    "id": 1321,
+    "sport_id": 1,
+    "team_id": 10824,
+    "rival_id": 2714,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:46",
+    "updated_at": "2026-03-25 06:12:46"
+  },
+  {
+    "id": 1334,
+    "sport_id": 1,
+    "team_id": 52,
+    "rival_id": 65,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:46",
+    "updated_at": "2026-03-25 06:12:46"
+  },
+  {
+    "id": 1341,
+    "sport_id": 1,
+    "team_id": 102,
+    "rival_id": 345,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:46",
+    "updated_at": "2026-03-25 06:12:46"
+  },
+  {
+    "id": 1368,
+    "sport_id": 1,
+    "team_id": 1,
+    "rival_id": 6,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:47",
+    "updated_at": "2026-03-25 06:12:47"
+  },
+  {
+    "id": 1370,
+    "sport_id": 1,
+    "team_id": 3682,
+    "rival_id": 7047,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:47",
+    "updated_at": "2026-03-25 06:12:47"
+  },
+  {
+    "id": 1385,
+    "sport_id": 1,
+    "team_id": 214,
+    "rival_id": 3477,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:47",
+    "updated_at": "2026-03-25 06:12:47"
+  },
+  {
+    "id": 1395,
+    "sport_id": 1,
+    "team_id": 503,
+    "rival_id": 82,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:47",
+    "updated_at": "2026-03-25 06:12:47"
+  },
+  {
+    "id": 1415,
+    "sport_id": 1,
+    "team_id": 6,
+    "rival_id": 19,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:47",
+    "updated_at": "2026-03-25 06:12:47"
+  },
+  {
+    "id": 1416,
+    "sport_id": 1,
+    "team_id": 6,
+    "rival_id": 18,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:47",
+    "updated_at": "2026-03-25 06:12:47"
+  },
+  {
+    "id": 1417,
+    "sport_id": 1,
+    "team_id": 6,
+    "rival_id": 1,
+    "deleted_at": null,
+    "created_at": "2026-03-25 06:12:47",
+    "updated_at": "2026-03-25 06:12:47"
+  }
+]

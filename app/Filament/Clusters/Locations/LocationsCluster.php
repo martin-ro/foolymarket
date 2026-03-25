@@ -15,4 +15,6 @@ class LocationsCluster extends Cluster
     protected static string|UnitEnum|null $navigationGroup = 'Data';
 
     protected static ?SubNavigationPosition $subNavigationPosition = SubNavigationPosition::Top;
+
+    protected static ?int $navigationSort = 1;
 }

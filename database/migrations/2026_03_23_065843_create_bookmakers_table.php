@@ -12,6 +12,7 @@ return new class extends Migration
             $table->id();
             $table->unsignedBigInteger('legacy_id')->nullable();
             $table->string('name');
+            $table->softDeletes();
             $table->timestamps();
         });
     }

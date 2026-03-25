@@ -2,27 +2,18 @@
 
 namespace App\Models;
 
-use Database\Factories\LeagueFactory;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Traits\HasCountry;
+use App\Models\Traits\HasSport;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class League extends Model
 {
-    /** @use HasFactory<LeagueFactory> */
-    use HasFactory;
+    use HasCountry, HasSport, SoftDeletes;
 
     protected $casts = [
         'active' => 'boolean',
         'has_jerseys' => 'boolean',
         'last_played_at' => 'datetime',
     ];
-
-    /**
-     * @return BelongsTo<Country, $this>
-     */
-    public function country(): BelongsTo
-    {
-        return $this->belongsTo(Country::class);
-    }
 }

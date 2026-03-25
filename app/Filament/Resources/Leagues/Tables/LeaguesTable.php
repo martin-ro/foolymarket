@@ -2,9 +2,11 @@
 
 namespace App\Filament\Resources\Leagues\Tables;
 
-use Filament\Support\Enums\FontWeight;
-use Filament\Tables\Columns\IconColumn;
-use Filament\Tables\Columns\ImageColumn;
+use App\Filament\Tables\Columns\IdColumn;
+use App\Filament\Tables\Columns\LogoColumn;
+use App\Filament\Tables\Columns\NameColumn;
+use App\Filament\Tables\Columns\TimeAgoColumn;
+use App\Filament\Tables\Columns\TimeStampColumns;
 use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Table;
 
@@ -14,52 +16,15 @@ class LeaguesTable
     {
         return $table
             ->columns([
-                ImageColumn::make('image_path')
-                    ->label('Logo'),
-                TextColumn::make('name')
-                    ->searchable()
-                    ->sortable()
-                    ->weight(FontWeight::Medium)
-                    ->grow(),
+                IdColumn::make(),
+                LogoColumn::make(),
+                NameColumn::make(),
                 TextColumn::make('country.name')
                     ->searchable()
-                    ->sortable(),
-                IconColumn::make('active')
-                    ->boolean()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('short_code')
-                    ->searchable()
                     ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('type')
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('sub_type')
-                    ->searchable()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('last_played_at')
-                    ->dateTime()
-                    ->sortable(),
-                TextColumn::make('category')
-                    ->numeric()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                IconColumn::make('has_jerseys')
-                    ->boolean()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('deleted_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('created_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
-                TextColumn::make('updated_at')
-                    ->dateTime()
-                    ->sortable()
-                    ->toggleable(isToggledHiddenByDefault: true),
+                    ->toggleable(),
+                TimeAgoColumn::make('last_played_at'),
+                ...TimeStampColumns::make(),
             ]);
     }
 }

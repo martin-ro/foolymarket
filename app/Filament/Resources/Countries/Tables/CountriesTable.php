@@ -6,6 +6,7 @@ use App\Filament\Tables\Columns\IdColumn;
 use App\Filament\Tables\Columns\LogoColumn;
 use App\Filament\Tables\Columns\NameColumn;
 use App\Filament\Tables\Columns\TimeStampColumns;
+use Filament\Tables\Columns\TextColumn;
 use Filament\Tables\Table;
 
 class CountriesTable
@@ -16,7 +17,8 @@ class CountriesTable
             ->columns([
                 IdColumn::make(),
                 LogoColumn::make(),
-                NameColumn::make()->grow(),
+                NameColumn::make(),
+                TextColumn::make('continent.name'),
                 ...TimeStampColumns::make(),
             ]);
     }

@@ -2,12 +2,20 @@
 
 namespace App\Models;
 
-use Database\Factories\CityFactory;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Traits\HasCountry;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class City extends Model
 {
-    /** @use HasFactory<CityFactory> */
-    use HasFactory;
+    use HasCountry, SoftDeletes;
+
+    /**
+     * @return BelongsTo<Region, $this>
+     */
+    public function region(): BelongsTo
+    {
+        return $this->belongsTo(Region::class);
+    }
 }

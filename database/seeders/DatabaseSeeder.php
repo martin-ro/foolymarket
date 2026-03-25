@@ -15,9 +15,23 @@ class DatabaseSeeder extends Seeder
             $this->call([
                 UserSeeder::class,
                 SportSeeder::class,
-                ContinentSeeder::class,
-                CountrySeeder::class,
-                RegionSeeder::class,
+                // ContinentSeeder::class,
+                // CountrySeeder::class,
+                // RegionSeeder::class,
+                // CitySeeder::class,
+                // StateSeeder::class,
+                // TypeSeeder::class,
+                // BookmakerSeeder::class,
+                // VenueSeeder::class,
+                // TeamSeeder::class,
+                // LeaguesSeeder::class,
+                // SeasonSeeder::class,
+                // StageSeeder::class,
+                // RivalSeeder::class,
+                // PlayerSeeder::class,
+                // RefereeSeeder::class,
+                // MarketSeeder::class,
+                // RoundSeeder::class,
             ]);
         }
     }

@@ -2,6 +2,7 @@
 
 use App\Models\League;
 use App\Models\Season;
+use App\Models\Sport;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
@@ -24,6 +25,7 @@ return new class extends Migration
             $table->date('ending_at')->nullable();
             $table->boolean('games_in_current_week')->default(false);
             $table->foreignId('tie_breaker_rule_id')->nullable()->constrained('types');
+            $table->softDeletes();
             $table->timestamps();
         });
     }

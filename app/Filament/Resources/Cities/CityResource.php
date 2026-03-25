@@ -5,6 +5,7 @@ namespace App\Filament\Resources\Cities;
 use App\Filament\Clusters\Locations\LocationsCluster;
 use App\Filament\Resources\Cities\Pages\ListCities;
 use App\Filament\Resources\Cities\Tables\CitiesTable;
+use App\Filament\Traits\HasSoftDeletes;
 use App\Models\City;
 use BackedEnum;
 use Daljo25\FilamentTablerIcons\Enums\TablerIcon;
@@ -13,6 +14,8 @@ use Filament\Tables\Table;
 
 class CityResource extends Resource
 {
+    use HasSoftDeletes;
+
     protected static ?string $model = City::class;
 
     protected static ?string $cluster = LocationsCluster::class;

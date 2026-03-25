@@ -88,13 +88,6 @@ class AppPanelProvider extends PanelProvider
                 TextColumn::configureUsing(fn (TextColumn $column): TextColumn => $column
                     ->sortable()
                     ->searchable()
-                    ->label(function (TextColumn $column): string {
-                        return str($column->getName())
-                            ->afterLast('.')
-                            ->kebab()
-                            ->replace(['-', '_'], ' ')
-                            ->ucwords();
-                    })
                 );
 
                 BasePage::alignFormActionsEnd();

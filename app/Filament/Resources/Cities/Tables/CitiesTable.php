@@ -15,6 +15,7 @@ class CitiesTable
             ->columns([
                 IdColumn::make(),
                 NameColumn::make(),
+                NameColumn::make('country.name'),
                 ...TimeStampColumns::make(),
             ]);
     }

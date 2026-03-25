@@ -19,7 +19,8 @@ class MarketsTable
                 NameColumn::make(),
                 TextColumn::make('developer_name'),
                 IconColumn::make('has_winning_calculations')
-                    ->boolean(),
+                    ->boolean()
+                    ->sortable(),
                 ...TimeStampColumns::make(),
             ]);
     }

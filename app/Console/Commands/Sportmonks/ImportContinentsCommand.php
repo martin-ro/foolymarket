@@ -2,7 +2,7 @@
 
 namespace App\Console\Commands\Sportmonks;
 
-use App\Jobs\ImportContinentsJob;
+use App\Jobs\Sportmonks\ImportContinentsJob;
 use Illuminate\Console\Attributes\Signature;
 use Illuminate\Console\Command;
 

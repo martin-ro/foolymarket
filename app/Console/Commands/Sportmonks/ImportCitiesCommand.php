@@ -2,15 +2,15 @@
 
 namespace App\Console\Commands\Sportmonks;
 
-use App\Jobs\Sportmonks\ImportCountriesJob;
+use App\Jobs\Sportmonks\ImportCitiesJob;
 use Illuminate\Console\Attributes\Signature;
 use Illuminate\Console\Command;
 
-#[Signature('sportmonks:import-countries')]
-class ImportCountriesCommand extends Command
+#[Signature('sportmonks:import-cities')]
+class ImportCitiesCommand extends Command
 {
     public function handle(): void
     {
-        ImportCountriesJob::dispatch();
+        ImportCitiesJob::dispatch();
     }
 }

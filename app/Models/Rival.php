@@ -2,27 +2,18 @@
 
 namespace App\Models;
 
-use Database\Factories\RivalFactory;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Traits\HasTeam;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\Pivot;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Rival extends Pivot
 {
-    /** @use HasFactory<RivalFactory> */
-    use HasFactory;
+    use HasTeam, SoftDeletes;
 
     protected $table = 'rivals';
 
     public $incrementing = true;
-
-    /**
-     * @return BelongsTo<Team, $this>
-     */
-    public function team(): BelongsTo
-    {
-        return $this->belongsTo(Team::class);
-    }
 
     /**
      * @return BelongsTo<Team, $this>

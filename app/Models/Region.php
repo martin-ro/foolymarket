@@ -2,12 +2,11 @@
 
 namespace App\Models;
 
-use Database\Factories\RegionFactory;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Traits\HasCountry;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Region extends Model
 {
-    /** @use HasFactory<RegionFactory> */
-    use HasFactory;
+    use HasCountry, SoftDeletes;
 }

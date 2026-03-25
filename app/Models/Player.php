@@ -6,7 +6,6 @@ use App\Models\Traits\HasCity;
 use App\Models\Traits\HasCountry;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
-use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
 class Player extends Model
@@ -47,13 +46,5 @@ class Player extends Model
     public function type(): BelongsTo
     {
         return $this->belongsTo(Type::class);
-    }
-
-    /**
-     * @return HasMany<TeamSquad, $this>
-     */
-    public function teamSquads(): HasMany
-    {
-        return $this->hasMany(TeamSquad::class);
     }
 }

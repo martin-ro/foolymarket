@@ -24,7 +24,8 @@ class FixturesTable
                 NameColumn::make(),
                 ToggleableTextColumn::make('round.name'),
                 ToggleableTextColumn::make('round.id'),
-                TextColumn::make('final_score'),
+                TextColumn::make('final_score')
+                    ->sortable(false),
                 TextColumn::make('state.name'),
                 DateTimeColumn::make('starting_at_timestamp'),
                 ...TimeStampColumns::make(),

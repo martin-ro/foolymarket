@@ -34,6 +34,7 @@ class DatabaseSeeder extends Seeder
                 RoundSeeder::class,
                 StageSeeder::class,
                 FixtureSeeder::class,
+                ScoreSeeder::class,
             ]);
         }
     }

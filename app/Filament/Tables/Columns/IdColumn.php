@@ -12,6 +12,6 @@ class IdColumn
             ->label('ID')
             ->searchable()
             ->sortable()
-            ->toggleable(isToggledHiddenByDefault: true);
+            ->toggleable(isToggledHiddenByDefault: false);
     }
 }

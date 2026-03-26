@@ -3,6 +3,7 @@
 namespace App\Console\Commands\Sportmonks;
 
 use App\Jobs\Sportmonks\ImportScheduleJob;
+use App\Models\Season;
 use Illuminate\Console\Attributes\Signature;
 use Illuminate\Console\Command;
 
@@ -13,6 +14,14 @@ class ImportScheduleCommand extends Command
     {
         $seasonId = $this->argument('seasonId');
 
-        ImportScheduleJob::dispatch($seasonId);
+        if ($seasonId === 'all') {
+            $seasons = Season::pluck('id')->all();
+
+            foreach ($seasons as $seasonId) {
+                ImportScheduleJob::dispatch($seasonId);
+            }
+        } elseif (is_numeric($seasonId)) {
+            ImportScheduleJob::dispatch($seasonId);
+        }
     }
 }

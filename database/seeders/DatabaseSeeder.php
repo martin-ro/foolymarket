@@ -31,6 +31,9 @@ class DatabaseSeeder extends Seeder
                 RivalSeeder::class,
                 PlayerSeeder::class,
                 RefereeSeeder::class,
+                RoundSeeder::class,
+                StageSeeder::class,
+                FixtureSeeder::class,
             ]);
         }
     }

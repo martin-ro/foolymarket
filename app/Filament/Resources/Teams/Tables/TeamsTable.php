@@ -2,6 +2,7 @@
 
 namespace App\Filament\Resources\Teams\Tables;
 
+use App\Filament\Tables\Columns\IdColumn;
 use App\Filament\Tables\Columns\LogoColumn;
 use App\Filament\Tables\Columns\NameColumn;
 use App\Filament\Tables\Columns\TimeAgoColumn;
@@ -19,6 +20,7 @@ class TeamsTable
                 'country.name',
             ])
             ->columns([
+                IdColumn::make(),
                 LogoColumn::make(),
                 NameColumn::make(),
                 TextColumn::make('country.name'),

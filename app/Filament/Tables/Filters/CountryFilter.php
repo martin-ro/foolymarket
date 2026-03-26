@@ -9,6 +9,7 @@ class CountryFilter
     public static function make(string $name = 'country'): SelectFilter
     {
         return SelectFilter::make($name)
+            ->label('Country')
             ->relationship($name, 'name')
             ->searchable()
             ->multiple()
